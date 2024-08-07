@@ -1,0 +1,904 @@
+3: Empty Entry:,,,
+11: Missing device type:,Samsung,SN-fffcd479de01429357ee6b65c654baab20ab43a37f17b66b109e15eadea2d8de
+18: Missing serial number:vehicle,Hyundai,
+28: Duplicate Serial Number:laptop,LG,SN-88e601781a07a1bcd9f1949c90f78ebb8db0009d6cce89f4f8f6fd051a52b5e1
+45: Missing Manufacturer:vehicle,,SN-f9d6c8a1892fb72cd8af7af384ad4869d420adf38b4a59b957353c4d49cd4766
+51: Missing serial number:computer,Microsoft,
+61: Missing device type:,Google,SN-79ce8f9ab8c4ff88427152453b5e9f8bed81d9ac693d27666dd3f4f14f1fa8d7
+84: Missing Manufacturer:mobile phone,,SN-54a357f972af120a76dbd788a19da4d3e46eb79ae9f94fc2936506ac156e0773
+116: Missing device type:,Google,SN-8b4aab92ba06b54558542f161c51779e5f536ce4dce62ade2234a304da4bccfa
+119: Empty Entry:,,,
+123: Missing serial number:vehicle,Nissan,
+142: Missing serial number:smart watch,Samsung,
+154: Missing device type:,LG,SN-6f9787d78d4dbef0264ad3df188aa37553aa8be6d2e04e765c2ec8936fded1ff
+158: Offset Entry:,computer,Samsung,SN-66e9980b86ee1e000b09cd7ed5dc470cac0368f8469f3ed08cec5c6f6e1570a0
+162: Additional comma:laptop,LG,SN-0094b91b094837bcda86538bae6bb8089d31975485c26d28866e7fed10c02f14,
+165: Missing device type:,Microsoft,SN-0e370e41a1aa9775b9b9c838aa1d9f34be5c35bb36101ce2d00c2a90e9729d1f
+171: Duplicate Serial Number:television,Samsung,SN-6ef3cc2a0793bf732c07a7a6102dfa7920b5a2938c456a1d0464c410dcd4528b
+172: Missing serial number:smart watch,Samsung,
+177: Additional comma:computer,Sony,SN-4ac30d674b62ebda1d27bc3eb31365e3b47c14b14d195b60b41faaba98a2edbe,
+181: Empty Entry:,,,
+182: Duplicate Serial Number:vehicle,GM,SN-272f74984cc365e790f7f6bb947e91cb8da06f311c2d745e565b6245b0ff57ce
+183: Missing serial number:laptop,Apple,
+185: Duplicate Serial Number:tablet,Microsoft,SN-272f74984cc365e790f7f6bb947e91cb8da06f311c2d745e565b6245b0ff57ce
+204: Empty Entry:,,,
+208: Missing serial number:laptop,Samsung,
+215: Empty Entry:,,,
+219: Duplicate Serial Number:tablet,Huawei,SN-742d2a0333d904db157be920596341cd9c891c52236bd8746338060f346ffd02
+220: Missing serial number:tablet,Microsoft,
+236: Offset Entry:,laptop,Microsoft,SN-bfa38794376ed0000d64f5bb27a14bbce85b842268145bf9bb073053d982775a
+239: Empty Entry:,,,
+240: Empty Entry:,,,
+246: Missing device type:,KIA,SN-70e12900b5e713592aa99fe9f05dbb23d210161fca6719779202e322b99f14e1
+249: Duplicate Serial Number:tablet,Huawei,SN-bf948cf71b0f2e2a922e2c5ddb76f4d59c914214a2719648225907d6b9d9f307
+254: Additional comma:tablet,Microsoft,SN-6a06b5c49458bd1b187063953e732651069567436ff2393d7991127c515833e1,
+259: Duplicate Serial Number:tablet,LG,SN-3a9ad8b075900082b0a14f2d8012138c8bd076077a2f14fa93453ef61edc7b43
+262: Empty Entry:,,,
+263: Additional comma:smart watch,Apple,SN-879ae2f862e1ddfc37d40e3f5edd1a2f8a7dd3ba25d81e7788913aae7c263d77,
+265: Missing serial number:vehicle,GM,
+267: Missing Manufacturer:vehicle,,SN-0dbef4714c3b734781d85c1f8a407a876feded17d60edf4f705f34220e200290
+282: Empty Entry:,,,
+284: Duplicate Serial Number:laptop,Huawei,SN-bb1a1845605dcdc60e31d85978269056a28b402e1762c74f4dcc0313e5db808d
+285: Missing device type:,Hyundai,SN-d149f580c66dc33ec5d83c0ffe729972acf0ea9f5755f693c4b97782f418ab4b
+304: Missing Manufacturer:tablet,,SN-08d2ec3be666fedda5a92a9f0beda94410285449aecaea3927596465562e1f07
+311: Empty Entry:,,,
+317: Missing serial number:television,Panasonic,
+330: Additional comma:laptop,LG,SN-b05635245266dda4ff261cc8fee8f1b093792df581c937922091208e6629a44d,
+333: Missing Manufacturer:computer,,SN-1d1b828c4a0f9f838addbd2e844e0d24625ce11e40a93d51e36e4146a4aac7b8
+336: Empty Entry:,,,
+345: Duplicate Serial Number:television,Hisense,SN-7867b5c80a7002db3261d263109b66c1581613045e58acc353de6bc7076a1815
+346: Missing serial number:mobile phone,Samsung,
+348: Missing Manufacturer:television,,SN-b18c9b1e5f1e873ddf3a27850167e2a10ab19caca60799bedcaabc42c1bc914c
+352: Missing device type:,Apple,SN-d1ad7d09f7ed1d96ca3d1eb30e14410c06a1322a7a18ec7c6dfcc61d068907ba
+361: Additional comma:laptop,Microsoft,SN-bfdb40739aee7f147c76a2d172db4fa9c03550e115db960c703d30f2cc2213b0,
+362: Missing Manufacturer:television,,SN-a1387bd696c53b5ad760350b31cd7c3cfe2c0c81d8e9116546b97e8a39676db0
+371: Missing serial number:computer,HP,
+381: Empty Entry:,,,
+384: Missing device type:,Vizio,SN-74df18c1ddd9336e3acc8ae22864707c7d69edf9f6ed23a4d9116b8c9620af03
+386: Missing device type:,Nissan,SN-d8b224fd72152c16b421ae7837f7582a09ebdab988356157c39ab8cf160807c8
+398: Duplicate Serial Number:smart watch,Google,SN-79af8445313408476e0a433fbc976dd4bd19f3296f76a1ecad04b95ed1f951c0
+400: Offset Entry:,laptop,Microsoft,SN-a92fc6d741fc75edebba9081c9b882736fee0a71f735a25f0eb57c768892dac5
+407: Additional comma:computer,Samsung,SN-9a2af46e4902c55dafdf1836ddc23af041b0a496a8b8b5d249d38eb911cd1534,
+413: Missing Manufacturer:mobile phone,,SN-e087bf45c9068c89758fba2c1954e73213d677db0b36e138c76ced57b437f566
+414: Missing Manufacturer:laptop,,SN-58dd9a942de9407f9208599acf7990e1d4fa8eee900763e0084b7f5a405b68e1
+418: Duplicate Serial Number:laptop,Microsoft,SN-3513889c9a9acbc18201387f7f779e7828776db4ffa54f4599501683b73f403e
+419: Duplicate Serial Number:mobile phone,Motorola,SN-3513889c9a9acbc18201387f7f779e7828776db4ffa54f4599501683b73f403e
+422: Empty Entry:,,,
+429: Missing Manufacturer:television,,SN-5c8c3b6059762cc880281c10028ad65d86fe8f4525d20dcab583e7d6f2004322
+439: Duplicate Serial Number:mobile phone,Microsoft,SN-1fdcc75f37389aa181c08f4debe7aea161c63bcc8a5f32654cf7742b38a24bdd
+441: Missing serial number:mobile phone,Motorola,
+454: Duplicate Serial Number:computer,Apple,SN-6eb174f3784e71ec2f354e14a05cbdc99424af2794b7a1d032b653d6ed6fa554
+457: Missing device type:,Samsung,SN-10c38d1323ca0ea64e3c25264b5836d544434eae3fc9287bcaa55cdf6cde875b
+466: Missing device type:,Huawei,SN-686a5e43c9bb6c0b6133231fb3d0cf86eb6f38e2ec30dbbdb45646bc07dd5460
+470: Missing serial number:laptop,LG,
+479: Missing serial number:television,Sony,
+487: Missing Manufacturer:television,,SN-381b6efa12d3b0a70219f2600f83c085f7175944d2b79985a9efd32156f6c213
+490: Missing Manufacturer:smart watch,,SN-2cf6729bd7ca792ff7215c666d05996e47a6f1175fd62c52a127b131637ba482
+503: Missing device type:,Panasonic,SN-29aef6a212ff39cdb9effabeb82d68cb7e63f78a3bfae43a515e649456ca84a1
+507: Empty Entry:,,,
+508: Missing serial number:mobile phone,Samsung,
+510: Additional comma:television,Hisense,SN-9a3c487d6a3e9a45cb1528b5049bea0dc6c5ad5bd95191be934bcdf0590c0648,
+515: Missing device type:,Apple,SN-ce298b3039506093bb8d6543a8ebcf2f657ad42a6b9069539de557f4087b6d3d
+522: Missing device type:,Huawei,SN-456beb29eebceb624073afce4578d25ebba02b49b0d50c1bf51ebc7012240b1b
+523: Missing Manufacturer:television,,SN-9fc7e8d5679b298a68c6d138060a45ca653a690fd5eb0e90d1eb708d7e2eb806
+529: Missing serial number:tablet,Google,
+534: Duplicate Serial Number:tablet,Samsung,SN-4dddbb8156f73e0c4cf0b40ab65941c42d0dfed8bf6bcf13779d19185aad918d
+535: Missing serial number:television,Panasonic,
+536: Missing serial number:computer,Sony,
+548: Empty Entry:,,,
+549: Duplicate Serial Number:mobile phone,Apple,SN-a514235d0e23ed7090b67d127ba1ba3b1dbe9abcff45c99842362d87a498b56a
+550: Duplicate Serial Number:tablet,Google,SN-a514235d0e23ed7090b67d127ba1ba3b1dbe9abcff45c99842362d87a498b56a
+554: Duplicate Serial Number:laptop,Samsung,SN-155a39437cac487b7146ff975e8bd1aa0103cf706587ff0fc5abfe74fbad0dc7
+555: Missing device type:,Huawei,SN-732aeaf21ee6e94b88396fe1edc4cac8022c3e9ca94c5511c5df99bd54b4bbba
+572: Missing Manufacturer:laptop,,SN-dedd57168597a6b6422b5779a2834c76f772a8bd3e1c51386b5aa2730beb6afb
+573: Missing Manufacturer:laptop,,SN-f072c5814a8365a9741e694de845e72a4690104a4ba277e2f794c15eefde296b
+575: Missing serial number:tablet,Huawei,
+583: Missing Manufacturer:laptop,,SN-a1fb41a431cf01c766e7ba4a2959409404a52d918fc3dbf28df5746420f4ac89
+591: Missing device type:,Google,SN-e9bc11451a819b044521471cebd6cbc7e2dcb3fb67564d22285a1dae7f4822d0
+596: Empty Entry:,,,
+603: Missing Manufacturer:vehicle,,SN-611985960810260cf563538ebfc9cb6347e1aa25d8895877d7165ec6578eb028
+608: Empty Entry:,,,
+610: Duplicate Serial Number:television,TCL,SN-7c9dceb6ad2b79d7d9d7baafa4a860180416cebc30156c757ae98bb192c28a11
+619: Duplicate Serial Number:laptop,Apple,SN-8bc8db60f246e6e4fbf3476531b974414419f56685b07ecc2bf6ed678a0a0f91
+620: Offset Entry:,smart watch,Google,SN-cb092f3955fdaa6ec12fb23417f615c06f47bdce897387c576b8932dbcf6dee5
+625: Duplicate Serial Number:tablet,Google,SN-425ecd990e860e11e7fb45542555a3352e0d7d83422a0afd1deb46d15b14a9aa
+645: Additional comma:television,Panasonic,SN-eaaf20eaf24359c74119d478a8ba5c228f2cbe6e65c7335e111907feb24e7d59,
+648: Empty Entry:,,,
+654: Missing serial number:computer,HP,
+673: Duplicate Serial Number:smart watch,Samsung,SN-07e360abebbb8760a6986188911b01edd0d094efa13733db83c2f725b059ce4e
+677: Missing device type:,KIA,SN-88c9e4a274254dfc9035f39a450c618f42fdaf8754c4685a2f56a23f0a56f517
+678: Missing Manufacturer:smart watch,,SN-8a2dcf56625f40b4f96930199d67071175d824d6e3076f5a46d605e1fe56545a
+680: Missing device type:,LG,SN-c85e15dcdef5a596359c5e475b43be2651e9e5d4b7922b261b0a95155840dc82
+684: Duplicate Serial Number:laptop,Microsoft,SN-bf67ed643a2660ada61352cbc282e54452f31e58bdb3207517a06ca11f4d2f47
+687: Missing Manufacturer:smart watch,,SN-b22737d8c977f5a4e19b89649775169fbebeb9095711a1e47626bd9b3c55962d
+690: Missing serial number:smart watch,Apple,
+692: Offset Entry:,laptop,Samsung,SN-c2b6d287845e0fd186b90b3a6bc32e1c01b53cf2ded5bf1a1c2c43432cac37f2
+708: Missing serial number:mobile phone,Huawei,
+711: Duplicate Serial Number:tablet,Samsung,SN-f7e0c16f03eadc36d22bcddd04670dae03f72d46fa8c8afd68169d474e7c211c
+712: Missing Manufacturer:smart watch,,SN-5d27f40e04feddbc2f89c49b062609496b31bdca88ba5c6b7f478d9ac12e2321
+729: Duplicate Serial Number:mobile phone,Apple,SN-656657ad45cd985e3b4b0a9f28f12f6935633c2113d73e09ab4ecfa6bd58aeef
+730: Missing device type:,Apple,SN-29020e9f9ccc95ecb21b77f064471e1b714bece0e9c8918b88ac6d49c66753cb
+732: Additional comma:laptop,Microsoft,SN-ff98f6ab1534eb8c81312dfc814e1d30ec7f353d68ac86169c6a9d9e6fa44c86,
+742: Missing device type:,Google,SN-909121cf8abca94e8e0350282f59995b79041c0f5a71be7c84b74e1ce6c6ad3b
+754: Additional comma:computer,HP,SN-7bc7ee1f53d8b75bc7bdc367e4e32eb13aacdb79395daac7595a18400c536e4e,
+758: Empty Entry:,,,
+766: Missing Manufacturer:television,,SN-2609d0adaa26ed12c3bd6b077fc8faea580db838ab1c537d1192f028daba6ea3
+767: Missing device type:,Google,SN-848ae6676e690f4d84e0ebb21d9ae637bf0131719e4a076cbb6912d58b19717e
+768: Empty Entry:,,,
+775: Missing Manufacturer:laptop,,SN-22d834946395660ecf3d775b16b163e8e686745a3969a9901cdadda50fdd0c95
+781: Duplicate Serial Number:smart watch,Google,SN-74ae86499af24380c3b74d00ab73287285620be8653d0202fd33dd73267e8625
+787: Offset Entry:,television,LG,SN-95786ca21cf3daab1b1f549136a38b88b99e74649943ee477ff7d7257b8936c2
+788: Additional comma:laptop,Samsung,SN-7fdacbc0ac976944359238d4fe4d88a4b720318b389fe08213ad5b3b18e4e543,
+795: Duplicate Serial Number:mobile phone,LG,SN-1cd8a04cb535778fb44a92fa95d9a3ceaca1b85872d77c40162be934f7fdd195
+800: Duplicate Serial Number:laptop,Microsoft,SN-52b3ced8f0aa497c07cf24947bf9bc7a9cd2ce6c017f5eb45e010f6a9a51f2d0
+802: Additional comma:computer,Sony,SN-ee133d62e922ce1a165c87e3cd79636674b614cdc01c7235490eec586a2a9310,
+816: Missing Manufacturer:tablet,,SN-900612a4d6b7152c654027dbcc475eed61df334f39a458f8a50b8b8c2b6b92ac
+824: Missing serial number:tablet,Google,
+826: Offset Entry:,laptop,Huawei,SN-3fcac849c64f9146ea57b6741f42772e5c9d4a0337888ae3e9e1c221c4ea7b62
+829: Empty Entry:,,,
+835: Missing Manufacturer:smart watch,,SN-ac3ee9c4a65c780e907425c7d30986b7089c177466db73731d8ef2b0fcd6e682
+843: Missing serial number:vehicle,GM,
+849: Offset Entry:,vehicle,KIA,SN-0b4599507c01b2161d13f63b723bbf134d0bb37bc687571e1facab722b05b2ac
+853: Missing device type:,KIA,SN-61fe86b0777be7d60a9f407a3c13f8ea68a9242d15223d9985e9cae8c5cc2b87
+856: Missing Manufacturer:television,,SN-9a7a4fa06537c647fe96ce3b552a2563cd312a575a2e2c2dfadacd4b8f7ad05e
+860: Missing serial number:tablet,Microsoft,
+863: Missing Manufacturer:tablet,,SN-716ed2d7d228cb23c2a25e1f059d91e527ee37bd572454285475247f204f594b
+866: Duplicate Serial Number:vehicle,Toyota,SN-e3833ed3b4698e50d3a207cff4e2771a1f8eee41f32a5719a13d8db8ccb0b47b
+868: Missing Manufacturer:smart watch,,SN-2c2a3bd5be6ac46a82b380dbe12f1694e10fb22ca16d7dc5c5b841bdbedf1303
+873: Missing Manufacturer:tablet,,SN-82b3906ca90a25ed0300d81c2084462d18ef7932d4ac28422cef4f9ac67a1c2e
+881: Missing device type:,Samsung,SN-375f242f10cf3ae63e4629cfc79863ccd24d88fbe0607393248967f84b6f407e
+883: Duplicate Serial Number:smart watch,Google,SN-d3886673d5a00969876056b0ab44d95dcd52465318a2023cc1e9d065ae27a18b
+888: Duplicate Serial Number:vehicle,Chevorlet,SN-98f2f0597740cac328b568273f3e57e06af057d0b947a4a5037f137b58599dfc
+896: Missing Manufacturer:laptop,,SN-9c0cca1ce8ea3b647bbc2fbcffd03d0cd8304e95ceb901e2ca42e4e2535bacae
+900: Missing serial number:vehicle,GM,
+909: Missing Manufacturer:television,,SN-9db9155eaf0efece951cf5fe81c29fff649d1da159483885ca0060adc278f0ad
+912: Duplicate Serial Number:tablet,Google,SN-aa9309498ded1a5b6eb96c2565fd55f6361736082a2cb50a079ffa96aab9be46
+914: Missing serial number:mobile phone,Nokia,
+916: Missing device type:,Hyundai,SN-0252d4c15ab2a9f1c983826a48ee54dae908e47ff46c14586be9a27e7cff43e5
+920: Duplicate Serial Number:vehicle,Chevorlet,SN-8c964527ab6497edb618d018d948299cfd1bc45819b243e9c323670c528f0124
+925: Missing serial number:vehicle,Nissan,
+932: Missing serial number:tablet,LG,
+937: Missing Manufacturer:smart watch,,SN-2b0ff9b4346d624d60f05707eb284d04757cd6051ce10e964c402b4eb259f52e
+939: Additional comma:vehicle,GM,SN-43c5d41d9d8c6dab397d4c64e91feb358875927e10a379e27708e9fd12bd8607,
+950: Duplicate Serial Number:television,Samsung,SN-9145b809d095dd9a9f829972db84dd4dab14df231c7b8cdf4c7b2cdc93c40ba1
+954: Empty Entry:,,,
+961: Offset Entry:,laptop,LG,SN-d71d172982b72c1ce06a4af1dc1f2ff872688e4500e28543da2093f28efdb528
+963: Missing serial number:television,Panasonic,
+967: Additional comma:laptop,LG,SN-5b5d367490b49985e9bcdf24ac8345313610ac7256fde4293b560e7839748597,
+972: Missing serial number:mobile phone,Nokia,
+973: Missing Manufacturer:vehicle,,SN-1f4f0ce7bbc56c28b86dfa433d5f2d66fcf1148766d2940ccee95ce69fdd8d28
+980: Missing Manufacturer:vehicle,,SN-648afdd48c80f809049226ad7709e6b900c31d9ad87dc861deb4dae875b53bfb
+987: Additional comma:vehicle,KIA,SN-e45fbad25bf1299a33c111266ffcc26592b5763a35d14961c2288c31310afda0,
+992: Additional comma:vehicle,Chevorlet,SN-a354a58c2c35c8e8f266a79b0ce43127c3bdee21214d847a12c1a2960bbaa710,
+997: Missing serial number:computer,HP,
+1000: Duplicate Serial Number:smart watch,Apple,SN-74533ddcacd87c2de377092605f1943e78e0166eb8cd7f5d227d18f979d39ae0
+1002: Missing device type:,KIA,SN-722c8e06eba8fc4cf3b82e969da36b0e41bae970a3fb0ba43087d137dfcf7cae
+1003: Additional comma:laptop,Huawei,SN-62350903d4edd6504f719ac63eabf847efbbb83890e0f6ddefdc4cb46bfde6a3,
+1009: Missing serial number:mobile phone,Microsoft,
+1018: Missing device type:,IBM,SN-056d1cb6d335bdd92fa59f3bcffc3fda4b302012bad7d38ccc13c4608c7344be
+1023: Empty Entry:,,,
+1024: Missing Manufacturer:vehicle,,SN-132866d9a28348422c6259748f6ddf27791db28f410f0ca4df352b5c362869c4
+1030: Missing serial number:smart watch,Apple,
+1038: Missing serial number:mobile phone,Huawei,
+1054: Offset Entry:,mobile phone,Microsoft,SN-03a0b0a80fe160de0d52421cd9916a2ff42e2e0d5f71100e4796a8a44bc30133
+1057: Missing device type:,Samsung,SN-1c619530833f79e9aa80bc60127659b54822ca4f94d7f4d537de093775888451
+1067: Missing device type:,Apple,SN-6842dd3d886e990ac7fc969d22c73c5cb05ff3fe7db31322e765706e70cf5204
+1088: Offset Entry:,smart watch,Google,SN-3f04149573489e415acb79674d2c0f5c12218819b21e0f18e2d0eeb0ef259482
+1089: Missing Manufacturer:vehicle,,SN-85b0accd3ee6eea3a92668e26afe1d681285a0e8eed3d396f20468e533625bda
+1091: Duplicate Serial Number:mobile phone,Samsung,SN-3b66062759aaa8a82832a7b205d85e1bac84bba2165cd06099d3749e4dbe3445
+1093: Missing device type:,Google,SN-e5add2f08f64085561c841afbf439a0df6dde902d265b5c5ea6af25937731083
+1094: Duplicate Serial Number:mobile phone,Google,SN-3b66062759aaa8a82832a7b205d85e1bac84bba2165cd06099d3749e4dbe3445
+1101: Duplicate Serial Number:tablet,Huawei,SN-73d5c6a09c7915f15a7e6e9a8713314c4d099c74b1b991961b880a489a21da0b
+1104: Empty Entry:,,,
+1105: Empty Entry:,,,
+1106: Missing device type:,IBM,SN-a410b5ee81158d8c82914eb467ae4769b3ac30e47fcbad4cbcc9668f2c3c4cf6
+1109: Missing serial number:tablet,Microsoft,
+1129: Empty Entry:,,,
+1135: Missing Manufacturer:mobile phone,,SN-6400072ec3e1fcbd736fe572ebb9acea75dec6f57e43d7f5d67eff14e82448f9
+1136: Offset Entry:,tablet,Google,SN-8d1c088ddf07e6086648f573289a7bfe6c13807e455478967a5b63bb2c349b2e
+1139: Additional comma:television,TCL,SN-85b50bbfbc52c67008e11e8c26a2014c47fde9f8bfa77ad599c53a398a868905,
+1143: Empty Entry:,,,
+1145: Missing device type:,Google,SN-780b4b0dbb87e56a4a0222bf10bfe4a0ee9450f60d659892746dd14d5d4ffff8
+1146: Missing serial number:laptop,Huawei,
+1157: Missing device type:,Hyundai,SN-0ca9a461aa9a110a53c7e35dd89dfe511c350ef0cad2dc72d41a7ae198cee761
+1169: Empty Entry:,,,
+1188: Empty Entry:,,,
+1191: Empty Entry:,,,
+1200: Duplicate Serial Number:laptop,Huawei,SN-59df791472e91695831d8f72e49d0f4c141fde909926fa0e6226c5119e52ff77
+1207: Additional comma:tablet,LG,SN-809b93390e69c156ecbb3faaa6cfef6f06ce265996b7e50e09789c22702a4d0e,
+1211: Missing device type:,Samsung,SN-0c1d84738782d9740e09b9d8f36257f3b8b257f674b39634b7809455c9dd27ef
+1214: Missing device type:,Microsoft,SN-8d043f5e5ef58fababd86d7cccc0b9add67945fa14a2e11316057a8e5894b150
+1215: Offset Entry:,tablet,Google,SN-c9585f75b6d11a3f7e0b803313852d3fcb221d65d72866f9aa8f0ba0e8bc018f
+1216: Missing device type:,Sony,SN-cce1260c013559a0de437081477c1a705d2a9044f142f59b780f87a01081db2e
+1220: Empty Entry:,,,
+1222: Additional comma:computer,Google,SN-ee3a0d724f418a917c74860fd5ad13b130a856c1fff77156e0fe8dc1afcb10dc,
+1226: Duplicate Serial Number:tablet,Huawei,SN-1e87f1f7b1ee3f159e9a8755951567d5815af0a9cc688925aec4799be1ea3c28
+1244: Missing Manufacturer:vehicle,,SN-58c51e1255f3aa76dd1a85587b8684780114cff086900088521d92d62da12c58
+1245: Missing Manufacturer:television,,SN-eb8a85e837d4a0e7af560b09f492beb3cb50809c9574ede65754e97d15e348b6
+1246: Offset Entry:,vehicle,GM,SN-cba22859783f16157845d180e221fd95bf81fd5dfa52f4664fdce4f18b47f1ef
+1257: Missing Manufacturer:tablet,,SN-3aafef3bfeedb58df06659318793adc5fab215d9ab1f0b38019911e0646752aa
+1258: Missing device type:,Apple,SN-ff0c24801d74710e071ad9827cc385e4dd2e68be0c5f3461d533cd9cac539851
+1264: Empty Entry:,,,
+1269: Offset Entry:,mobile phone,Nokia,SN-a0d0da13e8680eedf26880c7c0636e83fecb451bdabee28f1e25f3c962df50ab
+1270: Missing device type:,Microsoft,SN-682b8e07929d0bc763bc9dd47b0dd7cb012c9786374f23572230494fd81dfb92
+1277: Missing serial number:television,Hisense,
+1282: Missing Manufacturer:smart watch,,SN-9e2ed59d8adf615c04fef0bf9cd6482ae7798f478823dfdd7d86adf2fc58253e
+1286: Offset Entry:,television,Samsung,SN-4bf4cc5c6d5d95d0300f83b587a9d60c39de45ad3b85f23ffbeecd9ffcdfd97f
+1287: Additional comma:television,Vizio,SN-0d596903503b4fe0866bbf8b5aed4eb604ab3151f157babb5ef7c940771117df,
+1295: Duplicate Serial Number:computer,Google,SN-0c24c2b1918a3288dc45658b87ff05dc6c1e70ab9a388160d57e94928fba40cd
+1304: Duplicate Serial Number:computer,HP,SN-d192a1bc810516f60da1a26d9e2b0897eaf2dc871585501102c81203788bfea6
+1305: Offset Entry:,mobile phone,Apple,SN-c1a84f4c5292dff3fa140ac139ce14c67050107c6f2c70d0b1976ae1237e804e
+1311: Duplicate Serial Number:computer,Samsung,SN-30f00352d909a695ef720aadf80939e5510035b5891220e9843628e2bc3728d1
+1327: Missing Manufacturer:mobile phone,,SN-6869f416576f0b4876c38958dd5f1be5e8bf06ac7d33075c2dd1c36ad28596e9
+1332: Empty Entry:,,,
+1353: Duplicate Serial Number:vehicle,Nissan,SN-c867c4143f398ba84a8a8fd7280ec068dd8985270bf1d75bcd31698a03965e6d
+1365: Offset Entry:,laptop,Google,SN-a0fec416ec62252827380f694a6b306048aa5516c3ad2b4634f3d2cdef34a692
+1370: Missing serial number:smart watch,Samsung,
+1374: Missing Manufacturer:tablet,,SN-91c1e5aaf86ef65b70a9a41feb500900a90c739f8427eb4f0d6178eed55afe92
+1375: Missing Manufacturer:laptop,,SN-eb260f3f34981170946f66dce77abe361b5a5d72eeb5900af4aa9099690eb7a8
+1384: Missing device type:,IBM,SN-0334a1f09a54ac93da3fa2d83c8e80c96f720d359d07f191080b2c2aab401638
+1390: Missing device type:,Hyundai,SN-eff333a2e6ca36bb78857a6f854abacee7e9026b8cb4098f467dd58c56547a8e
+1391: Duplicate Serial Number:mobile phone,LG,SN-6c2596d017c6317540074ff54d4b083c7dbc62656018e03654f149bfb0e912e5
+1394: Missing Manufacturer:mobile phone,,SN-924ba6ddbb407c403972644b098ee645e55fb8ea240809aa71dbd1284c4878e2
+1404: Offset Entry:,vehicle,GM,SN-ce23d644fd457f62e03ca2b45c555095a996024db8e8b6357442c18da6f4c0ac
+1409: Empty Entry:,,,
+1411: Missing serial number:smart watch,Samsung,
+1419: Missing Manufacturer:tablet,,SN-a890707f83128efdd6ae736a647cc1a6c81b6527c6a3df079461ca1145b73942
+1426: Empty Entry:,,,
+1427: Duplicate Serial Number:vehicle,Nissan,SN-7536d63361275d5b091794be637f8dff08e3461185f670bbcfcc0839a857729e
+1431: Empty Entry:,,,
+1432: Missing Manufacturer:vehicle,,SN-4bc2a4fa661b5e7416b7c3045a52242b29b541478741219dd01a5e70d6255761
+1433: Missing Manufacturer:vehicle,,SN-f00f03bd91a9d5acbcc99b78aa6ab09e73cc7c4fabcc631d63ba318824df82a0
+1435: Duplicate Serial Number:television,TCL,SN-7536d63361275d5b091794be637f8dff08e3461185f670bbcfcc0839a857729e
+1436: Missing Manufacturer:smart watch,,SN-33ab955c9257b4b9662d5ddfafbdecd7abc6574fcce72a53641d1ee978b233c6
+1440: Missing Manufacturer:laptop,,SN-67b1283695c0d70be1fd76236dacd4fe816739906975ba7d990be3be9689d3e7
+1454: Empty Entry:,,,
+1461: Missing serial number:tablet,Huawei,
+1477: Missing device type:,LG,SN-478f9bd6e902f91c80c070ab67fbcdf3796eaf0bdbbd930b4725b4b98f4f73af
+1478: Empty Entry:,,,
+1486: Offset Entry:,vehicle,Hyundai,SN-9006789b8f56c53770c2e1a58d17653a56390cca24a915696676dd7116f0c411
+1488: Missing Manufacturer:laptop,,SN-16bf867b11c60e6c4c87a8e4e5833b387d812ce00817a7ac0403879b86935e5c
+1491: Missing device type:,LG,SN-f2624694b17047a16f0e6fb62af19cc635c37d2836cf9df696a409c3d85edbe5
+1493: Missing Manufacturer:tablet,,SN-194fc809ec093e34d1a0cf31f9feb0f5035d736090dce556ce538e32e0a2b476
+1495: Offset Entry:,mobile phone,Huawei,SN-44006d48c0cbf6efbbf35ef0daa791ee6512858c939c18f8c8370ddcb84d3a04
+1498: Missing device type:,KIA,SN-1a290cf482cdaaff548fd94bb1638ae2b9f41cb2c893519be6e320a1173585d8
+1502: Offset Entry:,smart watch,Samsung,SN-c94d177854de7f1b56357d2810f203d36598ac4f4e476e0eeb03d538daea2392
+1504: Missing device type:,GM,SN-78fd1b48248234aefe531bdbec45293ba08c408734c3b197ce7055733a035168
+1506: Missing serial number:television,LG,
+1518: Duplicate Serial Number:tablet,LG,SN-9446d9c6c1c3e79b3f04aa3c8a4090751e96cc8f9a7d1e313ac686b536e9c050
+1538: Missing device type:,Microsoft,SN-df06f7fde8ecf68ebd9275997e54ff900a16c1dd9d42aa8665e0359e907a3fa9
+1541: Duplicate Serial Number:tablet,Samsung,SN-0b671409545d86c1db9fe509cbc9754ac95f663112565d91c16c2582ea826693
+1545: Empty Entry:,,,
+1548: Missing serial number:tablet,Microsoft,
+1559: Missing Manufacturer:smart watch,,SN-3da6deeb7ba01781433835fbb4d436036c16cc5885f8fe1a20341d2cbe0363d0
+1560: Missing Manufacturer:computer,,SN-80782588c43ab9b3aecefc7bc42769c445dc9b3500e836739d17f18da4c18310
+1561: Missing Manufacturer:tablet,,SN-977d8da06df29db636cdac5a5e7af289183c16f2fad63fa8a2ee2524fb9d78f1
+1576: Missing Manufacturer:smart watch,,SN-6ee14a45a88f4fb558a6b2629731c870430a0e66350e58329dcd6db71fee5e84
+1590: Duplicate Serial Number:television,Vizio,SN-1e9f412122594d6d991a7bc0c1f36435d5e3e643bd0426bca9f9256cf7bdba8d
+1598: Empty Entry:,,,
+1605: Missing serial number:tablet,Google,
+1611: Missing serial number:mobile phone,Apple,
+1612: Empty Entry:,,,
+1621: Offset Entry:,smart watch,Apple,SN-96e9855fe0d3e20eaf0f8a5314db2f020173a0c826f363d468d9545192a1d860
+1626: Missing Manufacturer:laptop,,SN-adb63efe3951d1d9d6f4647b16f51611fa43ea0f41342b639ba978fe78fde06b
+1627: Missing Manufacturer:tablet,,SN-7f2560b75006c916443ecbf2a203ae04cba44a0c70383f58f2c1f7ae5e9f07a1
+1628: Missing device type:,Microsoft,SN-c8700b48a2e274fd11054ca34376bf71efb4df739dbe93c2c5f1f5cbfe2eb033
+1650: Offset Entry:,mobile phone,Samsung,SN-fe63c825c2ea0dc46e6c69bec0497b63af83894fb0694690dd79126b14785a25
+1652: Missing serial number:television,Samsung,
+1654: Duplicate Serial Number:vehicle,KIA,SN-39272c84adc9e1e87f4dca1bb9997962c5034861717e170fab72fa33711287b6
+1661: Missing serial number:vehicle,GM,
+1675: Offset Entry:,vehicle,GM,SN-aa44c4f57798019c4fc8843d180dd6d574c22ab5da4151437bca7b957d03ed00
+1682: Offset Entry:,television,Samsung,SN-230ebdf53a46f0306071173e7310676fbcbd5809f22517c7c727fc1aa858b8b1
+1687: Missing serial number:vehicle,Toyota,
+1689: Offset Entry:,smart watch,Google,SN-b4183152837cfc568f1690984af082c3f7259711750e3fea74f8894372982423
+1693: Additional comma:vehicle,Chevorlet,SN-ee41ccdcdfd3b0ca74fccf483b0ab04e46e40d94c905032a5b591207e2f1f28b,
+1697: Offset Entry:,vehicle,GM,SN-41aca8d1defb78040d5fabf96efb5310ccab40ad5344e81b0b32570a8bd5cb13
+1699: Missing Manufacturer:laptop,,SN-27cd2f859a204336220cc29b34d7fe4fe9b3ffb99d89c452263418ff57034303
+1704: Duplicate Serial Number:computer,HP,SN-c49b361bed9e146faa5c276cbba7bc345881d46c0197148fa2235b9ec1202f1d
+1705: Missing Manufacturer:laptop,,SN-2b85552e47d918e699b64e9e1651ea11987ec12879f52b90885bd49e6f00865a
+1715: Missing Manufacturer:mobile phone,,SN-ace0fe6a58c9b741a3f2b95d72f05445d1f9fc926438602279e8df300c34b85b
+1729: Missing device type:,Microsoft,SN-bb8ab2d490d81259287fadccc1f82b1ab1f4c62c829fa1501f48643231a09f05
+1730: Offset Entry:,vehicle,Hyundai,SN-1be7088a282cfe4e6f818b7d3ee37dae15d4fd028bb1c06cf4fec04968d8e84f
+1741: Offset Entry:,television,Sony,SN-0c9ed6e1e4b38712b2400e9164b3160863f417497d4f7c8c4e4a2a1bbfcb2ecb
+1747: Additional comma:laptop,LG,SN-700141409dc49cbbe8c3fb4be16963f4403478ffb32c82520b14ad61fc60ed4b,
+1748: Empty Entry:,,,
+1755: Missing Manufacturer:computer,,SN-adb9a0491a2abecc236c86d4be229be6708b27b4bf1271acbe88bda4d5b41df1
+1764: Missing Manufacturer:mobile phone,,SN-0d6f416b724ecffcda31eefac65cb4ed87005b7f679d09b8fdb15c93c8524077
+1768: Missing device type:,Apple,SN-b58146f7aa97007a0953acca857160d50676459fd9c9631b8fef70b6895d976f
+1773: Missing Manufacturer:computer,,SN-ca172546f9d79a5e45b44639b8e61b5a0c638e6bcafcd8da60789b858333df1a
+1780: Additional comma:mobile phone,Google,SN-06567e1cc49e3bed07ac02191dff719fa728032cc8ea51f9a04be53728d95971,
+1781: Duplicate Serial Number:computer,Sony,SN-3f2d33f81aade50301a4a7a1f44359f19cea2d9587ba3a5e3f77692067b83179
+1788: Additional comma:computer,Sony,SN-0be780d45a7fbec2f0129c715ab0d1ff7a86f682c78089d10401c9c0c216229f,
+1789: Duplicate Serial Number:television,Sony,SN-cd0ccd6dbc7b17b17ef20d7197a70a0bd40f5c44c398e8a18c7e164d5db3624c
+1792: Offset Entry:,smart watch,Samsung,SN-4b5e5e517e5ba5a72e2bd24e3735c45e06e6e09a2855aa9f1baaddc54cbe7531
+1793: Missing Manufacturer:computer,,SN-73ef4b668847f14eb1e9efc08505e2fae70a564bc6652b1e06220272d6a261df
+1799: Missing serial number:smart watch,Google,
+1802: Missing serial number:mobile phone,OnePlus,
+1811: Missing device type:,Panasonic,SN-1bbff60d65c7e85f032c266627ea78f674b8ea8949c8516cc0496a818cbad507
+1812: Missing serial number:laptop,Huawei,
+1816: Missing serial number:laptop,Huawei,
+1840: Additional comma:laptop,LG,SN-584c3103d02e85b29fa9e2f29e1d9030445e91fea6921c2fdf829a2fe2da8391,
+1843: Offset Entry:,vehicle,Nissan,SN-bcb66f646f776d52d3df51eb31f736872ab3cc5ee06087c60a21d98cfb82fcdc
+1847: Offset Entry:,mobile phone,Microsoft,SN-19da1fd4c2df359c9db5d2b3cf333315571ff1b50ebd23158ce1ce5f35806e0e
+1848: Missing serial number:mobile phone,OnePlus,
+1851: Missing device type:,Huawei,SN-045e146e4ff74dc7d8a2562ed4168590e275094473d9c465e487be9b9ddbb2fa
+1852: Empty Entry:,,,
+1853: Missing device type:,LG,SN-ea7efe2b956f557c6593c3768d8f31954f32c0a22f8e5b5a3e832ffbab72c9aa
+1856: Missing serial number:computer,Dell,
+1857: Missing device type:,LG,SN-178950a4d1c8e6af38f917106c9f8f529a169b63462889df6a21087b602aeb4e
+1869: Empty Entry:,,,
+1876: Missing Manufacturer:tablet,,SN-3a66fff4227df19f2569750900d8e9fce2da774e5b004ac745a20f31eefbbc64
+1884: Missing serial number:television,Sony,
+1889: Missing Manufacturer:tablet,,SN-04a20a11c8075e24d40b1b112e0ff6d03d3d96e9e2aa7cff9fa300405e373272
+1891: Missing serial number:laptop,Google,
+1894: Additional comma:television,Hisense,SN-1fecc2dfb24612db788ebfd149bddbc985e4bda8f4049592d348ec41d7c9f782,
+1899: Missing device type:,Apple,SN-5b055c3ed11defdddd40efd6f74fc00996e36cd182c7c4989926b19d5f4a5d99
+1902: Offset Entry:,television,LG,SN-ebd6c84f797190bf2665f9dbabb4095dc5ce6620b58875882757474a9b78e506
+1909: Missing device type:,Apple,SN-0f7d37423d04b0486d19f4c593d82dcf718c9e6845a016176fef495ff9457f9c
+1918: Empty Entry:,,,
+1924: Duplicate Serial Number:computer,IBM,SN-8e818f1169432506ad771ccf6bb4738aad2fd63eb67817027fb3be2e2c01c303
+1930: Offset Entry:,mobile phone,OnePlus,SN-cc718f650db8f69f6a36a6e25e14fb57f475cc78197899c57d689e7897948865
+1932: Missing Manufacturer:computer,,SN-e7b5e9517794baf25ecf893d94b5c91278b3d6484df4341f4b75589894baa628
+1937: Missing device type:,TCL,SN-5e6880d023aef9f8fc629ceb7446b6ad99f3db76218bc624046020d00c4163af
+1946: Empty Entry:,,,
+1947: Missing Manufacturer:vehicle,,SN-c0c16de949041fd9a116cf553998be0ad927321190ff6b32beb7d32403024d5e
+1950: Missing serial number:smart watch,Google,
+1952: Empty Entry:,,,
+1960: Empty Entry:,,,
+1963: Missing device type:,Huawei,SN-cc9a93fa397130a2f14fea61cbba7f0edb1fcf538ed5dbeb21ee7b711f756648
+1965: Duplicate Serial Number:tablet,LG,SN-c5ee9d64299f59a47c530a973fe59eb251fe02c07a2cfdbfa9ae8f9d2a8538a2
+1971: Additional comma:vehicle,Hyundai,SN-c0a068c67b5c4b981849f82171624571364edec97d2cef92b8291108ebc51919,
+1974: Missing serial number:computer,Dell,
+1978: Missing Manufacturer:television,,SN-b91a1fb4c1b5a7331f14e00c103e5ef4e8579f218e6f0d4e6b33346410b69c79
+1979: Additional comma:laptop,Apple,SN-a936c68dbe8997fa622841e5866427ce968e045303dcdfcaca30c63690a82eb0,
+1982: Duplicate Serial Number:computer,Microsoft,SN-48e582910404c2f36195e5513ae22fa0e8e0837d788f2e8e2bb5919872842053
+1994: Missing device type:,Microsoft,SN-b8c1f7c8dc42b7ad2620d14213ac5fe684c6c7be2869cab354b7553fde24440e
+2008: Duplicate Serial Number:laptop,Microsoft,SN-8784cc354b93fc99c3868d7cb056d846a7a8428780dd99856ee4851abcf7f052
+2010: Missing Manufacturer:vehicle,,SN-0ffa3e7466f9d9af7e85bdce41ca89488ee94990bc4efb3b0629e8f23b1866a1
+2013: Missing device type:,Toyota,SN-3068c71eb611085b66411173c8bcdf42d7df3fc69c3a176c328bc1a9c374d900
+2014: Offset Entry:,mobile phone,Samsung,SN-48ce6fbca13bc24c58dd0b8c264241b2636fed1b5d06da2a0da5f23131088aba
+2028: Offset Entry:,smart watch,Apple,SN-50955a9d5e172ad7bb89fb6e1cae67bc40c884488b8323fcb9fb87d2cec0670d
+2032: Duplicate Serial Number:mobile phone,Apple,SN-14f75b53b331c6496f50b4a62a8e45200b6a1001f57b85c627acd2e60ec33ff2
+2034: Offset Entry:,smart watch,Google,SN-8dad20439d3c33f72e8c1f58f3f7aa73f38039b05c08e9bccd22857365123466
+2049: Missing Manufacturer:laptop,,SN-5435f45c5c33705cb8b695ae743781e423e44ca7a7df07cdc4d7e5f177b4e55f
+2053: Additional comma:tablet,Samsung,SN-beaeb243ef2bf70df348b7e1b9d36fbd843eea056f4e1c3fa8876ed96c643848,
+2064: Missing device type:,OnePlus,SN-186599c8081483aa055f5f2e07ac3aa07d9553f773cf7c9b0e7ef915f3a3cb8e
+2069: Missing serial number:television,Samsung,
+2080: Empty Entry:,,,
+2082: Missing device type:,Samsung,SN-71d95aa4661b3c3b418ee07f0b8f8020c6668bb098649145bca8923c85b8a91b
+2085: Offset Entry:,smart watch,Google,SN-cc385053803c1a6e5fe0d60574674208c6ff04f9c327b6bdc064995838fa604a
+2090: Duplicate Serial Number:laptop,Samsung,SN-d13309cbdfd86bf49804d9bf85c2eb2e07714c583363aa1579808c9693fd9749
+2100: Missing Manufacturer:television,,SN-0bf9d4ef3f97db8dc907a2a3e00a6315bdfd6e94c18f0ec048d53ec31a509881
+2107: Missing serial number:tablet,Samsung,
+2108: Offset Entry:,vehicle,KIA,SN-cbbd4cd501fff117f372a27aa1045b0d4f6ddf66cec9430f239871e61323d811
+2117: Missing device type:,Google,SN-e1b93b59d44c685bf5dbe2255318d3208895995f0d2390d1d64edfcd859314bc
+2125: Empty Entry:,,,
+2136: Additional comma:mobile phone,Apple,SN-0a7cf142d3c729f64ad3fc3a0627cfc1a8a03a5d331ccd8e58cc73ac5df0025c,
+2138: Missing serial number:television,Samsung,
+2145: Offset Entry:,laptop,Apple,SN-fb30ccbec23a86d9a858900855d003894d9f367d097088867c5957b031653319
+2150: Duplicate Serial Number:computer,Dell,SN-948620df0ca64a97da307a549449533b8c6f1608ccc71e0b293d6f2822c8f01f
+2152: Missing serial number:smart watch,Apple,
+2156: Offset Entry:,laptop,LG,SN-87876a444646665bbb7e2b19353465f8c1643937e40f6f41f8bf1a0531c5b736
+2158: Missing device type:,Samsung,SN-33a7708cc5839af465407e51184505c83a55c0af5aa10024d3129dc02c478dbf
+2162: Additional comma:tablet,Google,SN-15be84a442cab2cc79a72d96bebbde4c22de29f72ec124ce221b7c211d2888fe,
+2164: Missing device type:,TCL,SN-0e97547ae324e412afdc91b9370749f63c35bc7dac4fef9be198943802498870
+2169: Missing device type:,LG,SN-a1d0d03066516721dec50a51c9888b7085b7f78a9fde15d127cc20c1db822ab0
+2177: Additional comma:computer,HP,SN-3d297c3bcc83cfe6a097d3a22f1b63ec6143efd647d3b2ddb58358fe47316d75,
+2183: Empty Entry:,,,
+2218: Missing Manufacturer:tablet,,SN-473d0ee5bfd500a6630b77cc5c872dc8d51b9d9859849655ba0c164358aaaf70
+2220: Missing device type:,Samsung,SN-10764c0e9efcda83c575e253f4d1b720d1e8df72a006031cf354ad4f93805c55
+2221: Duplicate Serial Number:television,Samsung,SN-2b05f72e63d2656b7f44799da79cf809603bf99aa4215d3afc0ad430fe28ff9a
+2227: Missing device type:,HP,SN-7eb3a3de0e6cd088b067e8db9f8dc1fd151753f40332c99515cdee0b9e402181
+2234: Missing serial number:laptop,Apple,
+2236: Missing Manufacturer:television,,SN-51d3f968507733d56df8d1b684b7aa2ecf8cf41834a01c85da5313d024cf4e83
+2238: Missing serial number:mobile phone,Nokia,
+2241: Duplicate Serial Number:laptop,Apple,SN-9d155a66b3bfc61a0a2d493dd7fd0015b77b048efc8040fa8903b1c15d0ddecb
+2246: Additional comma:smart watch,Google,SN-27f8305b7658e9cc1ab29933994f287dee00f5da913822a6b69b04398b11ee0a,
+2248: Additional comma:tablet,Samsung,SN-1ec39b2a6611e148c80ae9a91ec3674960d78880eaf7c1a8a43629015ac8c531,
+2255: Duplicate Serial Number:smart watch,Google,SN-ac1d4711a375422d7fd3d8c2f3459846fb0c98b336e5de285c5a26d9d8724060
+2262: Empty Entry:,,,
+2263: Empty Entry:,,,
+2304: Missing device type:,OnePlus,SN-79b8961dbcef8f56b28057d3146389411c0de5f3b0c7bc1b2d24f09b0445f708
+2313: Additional comma:television,LG,SN-92b23fc23dd934d5070b641e759cb1d1008cc7bce7ef029a3ff8c229aef2db25,
+2316: Missing Manufacturer:smart watch,,SN-027454a453dbcdcdcea829c889674826b31a8b7b62ba0145cb27b3c5ac9852d7
+2331: Missing Manufacturer:vehicle,,SN-8a3a14c95b80f51db5e4fafff497d592234f643be7d81863b406194af98cbcd1
+2335: Missing serial number:laptop,Google,
+2338: Empty Entry:,,,
+2339: Duplicate Serial Number:computer,Sony,SN-4ba1727358551e3705868e642648dd88310adf14a0050fb83fec1bc3f1582d03
+2348: Offset Entry:,laptop,Huawei,SN-3bf0a04221fd00b1956113ff62b8c9bd4ab902874eb01d89d31eea0d536e0fa8
+2353: Missing Manufacturer:television,,SN-87751d738b37b4fdbd4f51ad512e833d89517646c29e166ab18118989f40e4b9
+2373: Missing device type:,Hyundai,SN-ad98f3e605a84b51967fece2ce50bf902403d09b8af52bbc5e2c22658dd38a27
+2384: Duplicate Serial Number:television,Sony,SN-ccc64110d076432638e80e06bcb1681770a5b84fee82834d38516e6ccdfd7bf1
+2389: Additional comma:mobile phone,Apple,SN-7dad7065d0008ed2dacebf64cc19e19d1216a589ff1db260e8e784c512bced1e,
+2390: Empty Entry:,,,
+2392: Duplicate Serial Number:vehicle,Nissan,SN-5d047cd4ab7e4f461e4bb59fd7a977780bbc9502d48ae5cdca58030183b224c5
+2393: Empty Entry:,,,
+2400: Offset Entry:,vehicle,Chevorlet,SN-e15cfc0fd502f328401d012b65dd1d1a6d7214ad5a08c83674b456e8d8a96ed5
+2401: Offset Entry:,mobile phone,Google,SN-4f45ca3ae99f6b47ba59adaa4400464260c0a9eb3f86e51ccca71f32e24dd357
+2402: Missing device type:,Samsung,SN-21ca215c3933ea49a6dfab2a041b73419fd3093eb6817bfbd99bd215362fefca
+2406: Missing device type:,Sony,SN-7cb48c746b89cfe06616972ccb332b638416527cac10116f8a26cd1fcd333081
+2407: Empty Entry:,,,
+2420: Duplicate Serial Number:tablet,LG,SN-d8d3b7b797972220dd17a65ecefd1540f97710c123dd80ee228d782f82d02709
+2421: Empty Entry:,,,
+2423: Missing Manufacturer:tablet,,SN-fa6fed9e17314e70bd25d4a768e6554cec3ac4113f7ed89e18278785e2ef3179
+2430: Missing device type:,Google,SN-cefc3bb18935176519e4cba5dd048d1943006d7edd0d64833271cdd3e7420c1a
+2433: Offset Entry:,mobile phone,Apple,SN-8ac7db2aed37cf2bdcff500667fe83c2cd36945621d2728896da4da2f3c7ba6c
+2436: Empty Entry:,,,
+2441: Missing device type:,Apple,SN-9c3f66406e77c11a42028228bcd1708c3c4a619c405fdc4cece72cf75974b615
+2445: Duplicate Serial Number:mobile phone,Google,SN-f50f3f011082c0d43da26aa2c5b581aa68cc99ade37faddd07a3a11d1ff34016
+2448: Missing serial number:laptop,Huawei,
+2465: Offset Entry:,vehicle,GM,SN-980a9d75831bafe03f78a54b712ceadfbc116b04f20d26ed71850cfd66712a44
+2479: Empty Entry:,,,
+2504: Duplicate Serial Number:tablet,Apple,SN-04cdccd9c7d6653d91e9fc65a2d88b7b29993023550fbe75a9be96e83d4acc42
+2514: Empty Entry:,,,
+2515: Empty Entry:,,,
+2532: Additional comma:television,TCL,SN-1b1a0bf22cbb9226fb37e6e3d8ecd93f69d756cbcb333901ef9c824dd05ab70b,
+2549: Duplicate Serial Number:vehicle,Ford,SN-ebcbf30b2066cf73d1e63e5a70b9292284920667ccc6420e8b077d78946e02d6
+2550: Missing serial number:television,TCL,
+2554: Missing device type:,Hisense,SN-52aefea87f837198f2d7b75dc3534aae113df834a5d177d3761029386518d390
+2555: Offset Entry:,smart watch,Samsung,SN-69b0073930ea79c5ce9298483e208cd962890ad3c1614ba6046e59aa0360349c
+2566: Missing serial number:smart watch,Google,
+2567: Empty Entry:,,,
+2576: Empty Entry:,,,
+2585: Duplicate Serial Number:tablet,LG,SN-f0b66b8bbb669ff50af99effd9bf128be5383518a8f09dcd1ccae1ec60ebfea2
+2590: Duplicate Serial Number:television,Sony,SN-a946e520088abd1ecd3ab94cd42e0ff7e88d501bed79fed5ca0917bb7ac4f2b1
+2592: Missing Manufacturer:smart watch,,SN-e17341ddc949c8da358e0f16b5568b9b376aa84365d5a3434646abcf391179ac
+2594: Duplicate Serial Number:tablet,Microsoft,SN-e0cf85d46665174e1957dc42eac3d348ee91519a3b9a63c2dd41e4e91181479f
+2595: Empty Entry:,,,
+2602: Empty Entry:,,,
+2608: Missing Manufacturer:television,,SN-a80185add25712651ca54f3079ca0bcdcbf36005ead3bd34840e92511437cd51
+2610: Empty Entry:,,,
+2611: Offset Entry:,tablet,Microsoft,SN-4587ea929f723ca73e94f95bef3775a0d87319935c8df569d6d50c1670baee9e
+2613: Empty Entry:,,,
+2616: Additional comma:computer,Microsoft,SN-39a3389e9150ce9c8d947d98368a27854c6aca179be26da82c86c9ddd7aa4494,
+2618: Missing device type:,LG,SN-5ac7ce67499949684ed6489988ab0f33cb894223ae4a3ac678b331c36022f105
+2620: Missing serial number:laptop,Apple,
+2621: Duplicate Serial Number:computer,Microsoft,SN-9244765dc6382514824ea00b340e154e957867b8228ab5b75270c6ca98e1bb3a
+2626: Missing serial number:television,Hisense,
+2628: Missing device type:,Nissan,SN-968c9b7526c2d8027a27cc289b995ffec0d8a7a31a8051b64aa2506348084e96
+2631: Missing serial number:smart watch,Apple,
+2632: Empty Entry:,,,
+2636: Missing Manufacturer:smart watch,,SN-210339d91c75c3503bf858431a125c9feb8b0606c09d2c3cbe5f625488f3f9c5
+2644: Additional comma:vehicle,Chevorlet,SN-e8c9153e9f25cea8e47754555f5aa912be2c7181a5df39402a1d933c2d0fc032,
+2645: Additional comma:television,LG,SN-d3eafac6af3a65a2ef1c047761d4dc5051cd5ea1c9e5f6681817bb6992646f85,
+2647: Missing Manufacturer:television,,SN-09116fb608fc5debd90b58e48deac7dfe3d7f1890ab21ad7130d20f9d1210f43
+2648: Duplicate Serial Number:television,LG,SN-2583739ee59051aebb84a65aded339694a297ed0c8882bf8d7706ce40f71daea
+2649: Missing device type:,LG,SN-2df397e0db08b33ebe6c24a6775aa2224470a22878e089885cd42bec77784a16
+2652: Duplicate Serial Number:smart watch,Google,SN-8309b748121e3c575f2bc919ef124577ef5f5a528b85d875510895e4b332b848
+2653: Missing serial number:smart watch,Google,
+2654: Missing serial number:television,LG,
+2661: Missing serial number:laptop,Microsoft,
+2663: Offset Entry:,smart watch,Google,SN-6836196669779fd70541da53811504a845546a710113a97f9961b83a41b250d4
+2664: Missing Manufacturer:computer,,SN-8c2e80e99b9bd424a972f2bb0c94b3bcbd10548767453a2224697fb6dcb9c644
+2665: Empty Entry:,,,
+2668: Duplicate Serial Number:television,Hisense,SN-bb97f03304742d15ead8d3a17c0c0825606d8cd338b4e56f8c14f56613e2ca1b
+2673: Missing serial number:tablet,Huawei,
+2674: Missing device type:,HP,SN-8c2f8980ff698451cbcb012d87284008bb0ceec1ec73f0ec5f1264249a1e087e
+2675: Empty Entry:,,,
+2676: Missing Manufacturer:vehicle,,SN-d857417816638269a8b07a918b0e7552fbfc193ff590d6752f97284c3f89f994
+2682: Duplicate Serial Number:computer,Sony,SN-d4b6d6ffa76bf18c6fe7b32dedcc2260a7f5fb18a7e14f5828ccb6de3a008a92
+2683: Empty Entry:,,,
+2686: Additional comma:television,Sony,SN-2b0f7fbb57d951f599d738bb8e24b27c39930bd37d09229c1921dda869fb2a57,
+2690: Duplicate Serial Number:laptop,Samsung,SN-4f8ea19b6212ef883e7f34d2dfaa999b1892ceef5021885494d7ec014cb9c583
+2692: Duplicate Serial Number:tablet,Microsoft,SN-4f8ea19b6212ef883e7f34d2dfaa999b1892ceef5021885494d7ec014cb9c583
+2697: Empty Entry:,,,
+2698: Missing serial number:mobile phone,Motorola,
+2707: Empty Entry:,,,
+2709: Missing serial number:mobile phone,Nokia,
+2710: Duplicate Serial Number:tablet,Samsung,SN-e2eef02d7c3b4c041cc332395d0276142cbef7b95d8118aa1d96783f384669e9
+2712: Duplicate Serial Number:tablet,Microsoft,SN-e2eef02d7c3b4c041cc332395d0276142cbef7b95d8118aa1d96783f384669e9
+2715: Missing serial number:tablet,Huawei,
+2718: Additional comma:laptop,Google,SN-02ffcb1b9c01cb7dbcf12b0bcfd61f26df80d27a6c8bad8f29dd6628a33145e0,
+2726: Duplicate Serial Number:vehicle,Toyota,SN-ed686b21558f12b30d86f2f8d6edb3448444f7e6ec239aabcae5bbcce79547f3
+2727: Duplicate Serial Number:computer,HP,SN-ed686b21558f12b30d86f2f8d6edb3448444f7e6ec239aabcae5bbcce79547f3
+2728: Missing device type:,Huawei,SN-8143aca3a1954dbcfbce39a9c19e69fc630a2a58002a979359a93832e257ad0e
+2730: Empty Entry:,,,
+2731: Missing device type:,Samsung,SN-c644b78033afa0f1082d7355d80de13e0c983280fac556da42ef60bbae56606c
+2732: Offset Entry:,vehicle,Toyota,SN-443181d4b1ea4514cd74c8796c5b919e3865defe8318d3f65334c7e70c7bee0c
+2750: Empty Entry:,,,
+2754: Empty Entry:,,,
+2757: Offset Entry:,mobile phone,Nokia,SN-4eafd2a889fef54ef8b5af2c0cf830738b0b88693716dd6fa8d1158d7f80785b
+2759: Offset Entry:,television,Sony,SN-d7a04dbe29c78400d618d5661a0f297875aa0238f3d150d8059a59e083388b20
+2760: Additional comma:vehicle,GM,SN-d200213f7a6f373c400866cdf241792920bf5fc683d325537a5f39fd4fc9f492,
+2765: Offset Entry:,laptop,Apple,SN-15ac1eacd7be528cbd6b197b22e65933b5551f957868b244dc1cf6ed3930409e
+2768: Offset Entry:,laptop,Microsoft,SN-516008d58afddd92c5c2bd2dcb154c09e34ebfafe9ce5b09e8d1f05059b37ff7
+2770: Missing device type:,IBM,SN-6937dc6ab6c32697a4aaf5d4a02c22f58fe7f42a53500eb1a5d1c24485791ea2
+2772: Missing device type:,Google,SN-c087ef0790eb23f3fa529427a5c4df803ee4161c4668a35b5ddb47b05b03f3df
+2785: Missing device type:,Huawei,SN-79118d1d617383594449fef9c636ee8444b6a1054f51d814280e22fc07c8dd61
+2786: Missing Manufacturer:television,,SN-e0efb23bb9344d725c7665f7e0c453f2232109cb2b5c854aef770cdcd28fea46
+2800: Missing device type:,Sony,SN-dc151ca38e91ea5f5b540fdf4fa08ea8015a67a6b11c1f633852944e0e6d3814
+2836: Missing serial number:computer,Samsung,
+2838: Offset Entry:,smart watch,Samsung,SN-b65ba8bbde3fff7610f4ff60b3b14f1038df0b5229e5abe3e99b7e8043b5e7c2
+2843: Empty Entry:,,,
+2844: Duplicate Serial Number:laptop,Apple,SN-7d094ad7f93c5010433295459aa5fce6146bf7f81d890d19317ed511d29007ec
+2846: Missing serial number:computer,Microsoft,
+2850: Empty Entry:,,,
+2852: Duplicate Serial Number:television,TCL,SN-302b71bf086e50978d707d91cac995b3187aa7f3f3b521e65f958935bf7bac33
+2856: Empty Entry:,,,
+2857: Duplicate Serial Number:vehicle,Ford,SN-9cfe9e84f96207e6d59efe039aa4dc36b1bb49484db78053423cedb49926a54b
+2858: Missing Manufacturer:laptop,,SN-7629139e00f9f0ad62b2eab02b133297a36f7049561dcb64788beb9696dfa7d3
+2873: Duplicate Serial Number:vehicle,KIA,SN-ed810f80d5034241118f7008aeed73173b07f27c23e61a23b77eea6e42c12de6
+2876: Missing device type:,Motorola,SN-95c6694ca4b00cbce14d8a20c5434d5d21b3ddee17256a7edec284d3f46aec30
+2877: Missing Manufacturer:smart watch,,SN-f796c56fdc26bac066c5ca2f7f8adb8ca08218822b6839042ee95bc0784d291f
+2879: Duplicate Serial Number:tablet,Apple,SN-75d6038c79607598464279ee46ed42ee9e579b41b8c8c324678c5c3c2f48a355
+2886: Missing device type:,Samsung,SN-31f3a06314e23b1506bcf663a7b7560d9254d6d91277212bbbaff988dd70c79a
+2892: Duplicate Serial Number:vehicle,Toyota,SN-0008fcdebc914721983ee490b4887aae10fa9b2936b9b7f38b23a3b6b7e25fe3
+2893: Duplicate Serial Number:vehicle,Toyota,SN-0008fcdebc914721983ee490b4887aae10fa9b2936b9b7f38b23a3b6b7e25fe3
+2894: Duplicate Serial Number:smart watch,Apple,SN-0008fcdebc914721983ee490b4887aae10fa9b2936b9b7f38b23a3b6b7e25fe3
+2899: Duplicate Serial Number:mobile phone,Microsoft,SN-d32acac4680e47992be7eff29a034f8d67cc1afd8bd7e9b92498dd9be7f70346
+2901: Duplicate Serial Number:smart watch,Apple,SN-d32acac4680e47992be7eff29a034f8d67cc1afd8bd7e9b92498dd9be7f70346
+2910: Additional comma:mobile phone,OnePlus,SN-5d03915d972585996ed7b4b73f81633b57a2ceaf30b585c1d73e58d5064bb089,
+2913: Empty Entry:,,,
+2920: Missing device type:,Apple,SN-9471411adccc60501985bf7aefa0ea55dd0d9d65ad4aebbf79e2c5bfb4934240
+2929: Missing device type:,OnePlus,SN-2ed3828ab986eeb4aae84a504394e6e8a187753c51d159182bc697ea28f545d0
+2935: Duplicate Serial Number:tablet,Samsung,SN-953b85847fdfa7893632eadc9e8d4187c3ef3bb6465bdf152cf372a0709b864b
+2941: Missing serial number:computer,Apple,
+2949: Empty Entry:,,,
+2951: Missing device type:,Huawei,SN-67bf87f9a14ea74dc618c679416c1b8db1959f81e25c92ece2fc26f69637c711
+2954: Missing serial number:television,Hisense,
+2961: Empty Entry:,,,
+2967: Missing device type:,OnePlus,SN-e0298710f291733ad72b8727d38a3f6ce74ebb4033435d97e00ed96af71f686f
+2972: Offset Entry:,tablet,Huawei,SN-f37c24706c793960bb5dd56511e3dad6c8f892a0fad44e675111c86ec6007dc9
+2974: Missing device type:,Google,SN-172281d3e08ad6d3b3d5f3b160bfc892c0b75f9a3075224a4900f22eb1f595f7
+2991: Offset Entry:,laptop,Google,SN-ff0325fbd13b5aea7e760bfa7101c9318b6d1e699a51b972afbd5be51da7abc6
+3000: Missing serial number:computer,Samsung,
+3002: Duplicate Serial Number:computer,Sony,SN-b3a0f2742dbc53bb9aecec2f7f9f03db09651d00033df17ac8b719692f78fca2
+3007: Offset Entry:,tablet,LG,SN-27327ef7456019729af9c790523ac22027cf2b8e57f9acad9e3cb06e69b719a3
+3012: Missing device type:,Apple,SN-04e58c73791afd0badb359f9185698c0c01f8befc45616e846452f04134de4df
+3014: Additional comma:mobile phone,Apple,SN-868c53749cd28c274d120f5c9ed609387be05d7bb32cd13b9a544e3e69f52658,
+3017: Missing serial number:television,Sony,
+3018: Duplicate Serial Number:smart watch,Apple,SN-87b5e647609135b3100465158e4fb3da96dd51146c42b38f17a89dfec1f6acaa
+3028: Missing device type:,Google,SN-249717b5c086cb158f4adc7025a32557f59d6141b8b3a47b75fb32effac40453
+3030: Additional comma:smart watch,Google,SN-165408e51a46983fbb0576e45cf3b77876673b0dd37dfc0778e2ae44ff993b8f,
+3032: Offset Entry:,mobile phone,OnePlus,SN-7ca82487465c4bb2b04ab7c96845809f1460fe1b11ce317abda6268ba8d22a5c
+3041: Offset Entry:,television,Panasonic,SN-2b6482ec9a780f11e6aced8bbc37b3cac57d79f45068eec31e0af42053a939b5
+3048: Offset Entry:,tablet,Microsoft,SN-552ad8af6b2fc899e9cd045633ee1c2d98d878f1d223eb3d7af5bc054d474f09
+3070: Missing Manufacturer:tablet,,SN-66e6031bea215c7539b5578b3d97e1823f066e59c0b1db699edc1b3506876bcf
+3077: Offset Entry:,smart watch,Google,SN-158bb3bb8f2ae27b0fa030dc46598b7bf63d6668d233711931ffbb4873eb9e70
+3092: Missing serial number:tablet,Microsoft,
+3098: Additional comma:tablet,Apple,SN-7db1662538d8f553625a01547f80739829d06ad5458c99a5439cbbec7256f56b,
+3101: Missing Manufacturer:laptop,,SN-0b1b6793203ce23d52197d23416d2d33b11ad68e491178edcd9d460885172447
+3104: Missing device type:,Sony,SN-36fa73c247e2c8b75ad0305a13344d7c4dc94f86bcf235599079954339ee502c
+3107: Empty Entry:,,,
+3108: Missing serial number:smart watch,Google,
+3109: Offset Entry:,tablet,Google,SN-de8fbc65a992cd5cd078d561ba1e3122032df5056755864b375b3ad080a49ef2
+3111: Missing Manufacturer:computer,,SN-06dfffe53a91a5c2dd31f4c4a70e470898a355e907c2330818865b81ef1b5424
+3113: Empty Entry:,,,
+3120: Missing serial number:computer,IBM,
+3121: Missing serial number:mobile phone,Nokia,
+3124: Offset Entry:,computer,Google,SN-8a31a9f37311fa31cfdea4d9173f83851fae2bd184920828b1ab04fea1ec2579
+3125: Duplicate Serial Number:computer,Apple,SN-63a2ee5cbe103883df3de95c46c75b09fdaa5c9fe91c122a9c461b1e5d50741a
+3128: Missing serial number:laptop,Samsung,
+3130: Missing Manufacturer:tablet,,SN-f996670bbee37d57cdd4cbac395f64cac25791c7e6cdf4c4e215fa1faba7e978
+3132: Missing device type:,Huawei,SN-c352235d0fb7ba71d393ef79ac420eef555f3e849c18eb7db98eb80f3b3220c0
+3137: Missing serial number:television,Sony,
+3138: Missing device type:,LG,SN-4b21207bcd86f218b7d1c52a51b4d3ada17c2e609d692b23ceade7a60229efc5
+3143: Missing serial number:smart watch,Apple,
+3161: Duplicate Serial Number:computer,Samsung,SN-b8dd9f9e7e8c04fc93b8d991c89a67dda284b2b7bac11bba1f1739f736e86658
+3169: Empty Entry:,,,
+3170: Duplicate Serial Number:vehicle,GM,SN-22359d002b34d37327d55a81ff15190b3adbca6e24d994e3d1956d86fe5e680e
+3178: Missing device type:,Microsoft,SN-3f6be8eb18501104aea224be1b63f2759b5cf8b386f1df0d408e4adb7f5d7fd5
+3186: Additional comma:smart watch,Samsung,SN-cd5d9a3a16a0f97904d8a82406c5f68cefe6f8c8436867d6080978a95a28116b,
+3190: Additional comma:television,Sony,SN-aaa2557de3d8cc824b78a782779ed6f1871ae6f2ab88842a59876acab058ecfe,
+3196: Empty Entry:,,,
+3199: Missing device type:,TCL,SN-5358049d9f228a12079c629a1e067aa76457be04da5aab5cc62c10bb4aa2fe75
+3218: Empty Entry:,,,
+3223: Duplicate Serial Number:laptop,Google,SN-cb78020ca93514da08c274b7a9fb8eb5329a27877e7dbe26a2f813c402c916ba
+3226: Missing serial number:laptop,Huawei,
+3228: Offset Entry:,smart watch,Apple,SN-ab9f5ee482423e124feba1a77b04e0a4a83d0cad7a2b88eb86ffcc0ea91c65bb
+3231: Offset Entry:,mobile phone,Google,SN-afa4fdab1a0cc021f129a7c247325694cadd34eb2746f8cff49bead20f021a21
+3235: Offset Entry:,laptop,Huawei,SN-1dbb2a548b03af1817c6256ecb9f61a5989163e65fe9c5d3f84f7791454c5b47
+3240: Missing Manufacturer:laptop,,SN-95b7b7a4aa803106daca9dde7cd464e86c33faf24f36a251e2f79342d0bd3167
+3242: Additional comma:smart watch,Apple,SN-f8eedd1567c8218fa06a5a57028b969c8e11f727ff6b57c8fbd0ce8696d5b055,
+3244: Missing device type:,Google,SN-b50543fe30e17c96dd1c00cfd362e0bbee8c8784ff99befaedf0702c55ee5668
+3251: Missing device type:,Microsoft,SN-6f826313adaf6255dffca2b907d646eca2f8f2bd111678020c5dd7dd0eda4ad2
+3258: Missing serial number:tablet,Google,
+3260: Missing device type:,Google,SN-0e96a42e4590fd44249fcba7b0ccf5f967f4a40643f86a8b5f09dd4c85e31860
+3275: Empty Entry:,,,
+3278: Empty Entry:,,,
+3280: Additional comma:mobile phone,Nokia,SN-90d8376a45c4bb565a21f440b1d3a96319ef0e81a2288fba570141f8213d0597,
+3287: Empty Entry:,,,
+3288: Missing device type:,Apple,SN-3da2202669bd6da838d1ac583f978f096eac90366b53e6db7bbad389d5d3ad87
+3290: Offset Entry:,laptop,Samsung,SN-3f3d81b457c53279b48443387dc077eec3326a6964d4d8935f41d853435c1770
+3293: Duplicate Serial Number:television,LG,SN-6d04e0e467474a8af6ac981c5966baab89e8484408b1a29ab9e85104e56db724
+3299: Empty Entry:,,,
+3303: Additional comma:tablet,LG,SN-411db8c5b8d5b79e5d8ffb3c982109415101d7d1e4c3ffd42bff421e3ef21191,
+3304: Duplicate Serial Number:mobile phone,Microsoft,SN-efe67baa329008c3084427bb0f3c80f1b5ddee2b6654435b0737cc19f6ef92d2
+3309: Empty Entry:,,,
+3313: Duplicate Serial Number:smart watch,Samsung,SN-d60248ee2926934c29f0188f41a9bed1bc9b8f4de148fa565f9c26bda07b21f2
+3315: Missing serial number:mobile phone,Motorola,
+3320: Offset Entry:,tablet,Apple,SN-e8fb76417eb31459c84e4b61685138827b5d481c5260cbcf2e9928f88dec56d9
+3324: Empty Entry:,,,
+3331: Missing Manufacturer:tablet,,SN-3f947dfbc1f3390932579362230f407eab61afab152b9cef99ae225027d8baf5
+3340: Additional comma:smart watch,Samsung,SN-4dbbc508a94628569eee833ce10f554ff75029f3b28c797f331b28c40b687ce2,
+3343: Empty Entry:,,,
+3347: Missing Manufacturer:tablet,,SN-fac4c9bcb5a06ae89d9eada02ecfb7bca4de3190744f13080d2afc1a11aeaddc
+3350: Missing serial number:tablet,Huawei,
+3355: Additional comma:mobile phone,Nokia,SN-5f0fdd0727f9e5d62024fa6588d35289bccaba8272fd6e89c89e068640c84f10,
+3361: Duplicate Serial Number:smart watch,Google,SN-840b2f0d155265765a6cdcaba9634a04ee594e72c70f1a107c98367e8d394040
+3364: Missing serial number:laptop,LG,
+3365: Missing Manufacturer:laptop,,SN-d31da783a5e308adc5f578e027026dfd09291daece18d77905e4b3bb6c9c9382
+3371: Missing serial number:television,TCL,
+3372: Empty Entry:,,,
+3374: Duplicate Serial Number:television,Samsung,SN-ada77274fd1c1a168d22ead09ed28d3d4efb7a400e0c62d158071b5d9970700f
+3378: Missing serial number:mobile phone,Nokia,
+3399: Missing device type:,IBM,SN-d56bb9a404b50d20324f3282e94587bc100a9ff2e304b81f3c6cf21484a43c20
+3400: Missing Manufacturer:television,,SN-66e29cfccbdc28e677a1093e53b8d29ca9917e832aaa36aa39544a93de1e6071
+3410: Additional comma:computer,Google,SN-de8b640264d07cbaec85fb3e223ad790c33399b17452a0e610bf573467147488,
+3411: Empty Entry:,,,
+3414: Duplicate Serial Number:television,TCL,SN-a7f2cd57c11084aa5f149d4dbdc58e54945d6566a5de6db6dfe47dd4fd0b389e
+3420: Missing serial number:smart watch,Apple,
+3428: Missing Manufacturer:television,,SN-debb83446a6574bf6a11957f387d063669a3438a43e8e2b71587867f207b0d74
+3436: Missing Manufacturer:laptop,,SN-9e9289497187a528071417310dcc30434485336682f91e8ebeec19a26ff30d85
+3438: Offset Entry:,mobile phone,LG,SN-8b43ec45e9973b1d707097a30586860f92fb3bd10f3834ff737e1eb2c0ebb973
+3443: Duplicate Serial Number:tablet,Microsoft,SN-3fa03df988f80f7f1c05e9b38aff6a6e8b008a0795343e76443940d8eb01c6d6
+3452: Empty Entry:,,,
+3456: Duplicate Serial Number:computer,Dell,SN-0a497db15d4868d7f154e2de887aad847b6ffcc70d32aa419ee25d41c8e9cd49
+3457: Additional comma:tablet,Apple,SN-2f29b82690fb14f5581cf72046423736d487212ef3db81244116c197d7ad67a8,
+3462: Missing device type:,Apple,SN-e7ed99f159da5a63269c524ff885b4eab51183a98f396920457def925d962ef1
+3464: Missing device type:,LG,SN-bd50d31b6ccb1a436de41e8cfb54d284a802d17f164659fd9b56fd82edfc97f2
+3471: Additional comma:smart watch,Apple,SN-b7b929d4cebaff3b44e1d913ec191d05030315dec10be0668f16af4359b2a674,
+3484: Missing device type:,Dell,SN-c37ced8bc15217df8b01390fa7d69517d39cab80fd36779a0cb4e3685d1cf68f
+3501: Offset Entry:,television,Samsung,SN-8c91071f48f7f2a933c941c508976aa34b709fa3183a0c390626891396622336
+3503: Missing serial number:tablet,Apple,
+3505: Duplicate Serial Number:laptop,Samsung,SN-e170bbb8143dab4fa4a8724ccab3669d0ba99b8184f4eb17763890af4c18b3e4
+3509: Offset Entry:,mobile phone,Samsung,SN-8242b0e2d02520ea2ce5b139f3b68380a3a0dbffefb8c55d9ef9918e7cf17351
+3511: Offset Entry:,television,Panasonic,SN-38331d8d05eaf7775baf3c49e772ce89094dbeec1684e95ec00441f136d00320
+3515: Missing serial number:tablet,Samsung,
+3517: Missing device type:,Google,SN-d02a67da6199a53ea49cc781da6530d67e0eac5bfa61b655868f152ddb0f4e1d
+3520: Missing Manufacturer:tablet,,SN-1bff7449d860cd53405401e3c17df6a9a26e0965ee5cacad20f0bccf418f939a
+3522: Empty Entry:,,,
+3532: Empty Entry:,,,
+3533: Additional comma:television,LG,SN-f16d164be6e31fffc33c6ea120171e81e5fad308e1d195954bc108d9d72c9775,
+3536: Missing Manufacturer:vehicle,,SN-5638b79e0057bc57227026eea8826dd1f41cf4968a67ed2f24c7710765f80a88
+3538: Missing device type:,Samsung,SN-22c6ef771ef1981cc3f57d3559e0f43e3d2232ac19affab9e9a17f773a45ce20
+3539: Additional comma:mobile phone,OnePlus,SN-1284f44908eebf972a7801d90417cc82249d81ce115258a74cc657c7c88b23e4,
+3542: Empty Entry:,,,
+3549: Offset Entry:,smart watch,Apple,SN-90a66d66d0afb748927d1822374e96505a864dafe34cd7e080a7ef0435539532
+3561: Additional comma:laptop,Huawei,SN-0176c818426b7800ad77c9a4b8cea81ebf24a15f9269bacebfa8dd65fc48b9b2,
+3562: Empty Entry:,,,
+3569: Missing Manufacturer:vehicle,,SN-e59e30d6b6366afde3f7ea1474b96339cbae87ab577548ca9d10718314b77539
+3571: Missing serial number:mobile phone,Apple,
+3588: Missing device type:,Apple,SN-7163e8d39820dbdb81032a01b4d81c3fb7fef64bc91a96c39d74ccf46a67c86e
+3593: Offset Entry:,laptop,Apple,SN-3478cb13edaaee3c46aa8d0e77a9ea1915022dd32b27ccbed21f633cb79928ec
+3594: Empty Entry:,,,
+3605: Duplicate Serial Number:smart watch,Apple,SN-1a3cfeadf3da6ae6ac7d390d5a1c427aedf60e51029108a7178c4ebb3b5ff9bb
+3606: Missing serial number:smart watch,Google,
+3607: Missing serial number:computer,HP,
+3623: Missing serial number:smart watch,Google,
+3625: Empty Entry:,,,
+3631: Duplicate Serial Number:smart watch,Google,SN-6e64b31800125d8477f21a9146dd599813dabac1f3fcb1256852c36bc21e5586
+3633: Empty Entry:,,,
+3641: Missing serial number:computer,Dell,
+3643: Missing serial number:tablet,LG,
+3646: Additional comma:mobile phone,Samsung,SN-f75d3da52abb09399b8df6fd0daa696a307b2cdbc9251c4d73b9530146a320a4,
+3651: Missing device type:,GM,SN-dc450cf71dba0b27e65b82aa0dd08f1225c0b9ce1121df288f78754b86913e69
+3654: Duplicate Serial Number:television,Hisense,SN-320456addd21e377941acba1c4f553e4d0abfc3a9d2d8800da7b4aa8ae875e61
+3655: Duplicate Serial Number:tablet,Apple,SN-320456addd21e377941acba1c4f553e4d0abfc3a9d2d8800da7b4aa8ae875e61
+3656: Offset Entry:,tablet,Microsoft,SN-19d96a46143e75d8edd77e11785889a31fcefc0fc17329e996bdc64355ffa566
+3667: Duplicate Serial Number:smart watch,Apple,SN-b888ca4d58c05677251a65ebeb247f21b7a200a39e1e5e2879f85ed07fd0c9fa
+3677: Additional comma:smart watch,Google,SN-9f3d4132b24d2c8c5eb291de1f526df16e0a26b9fd98dcc2b32f7d4a829ca26f,
+3690: Duplicate Serial Number:mobile phone,Samsung,SN-364a99f0884310e5edf621fee7b87c28aaa531c294f9b190ac3a9f4e0737db2f
+3692: Offset Entry:,tablet,Huawei,SN-8919810674924dcf84754af497d93498200621caabebde91560ecbddd8329d10
+3701: Missing serial number:computer,HP,
+3706: Missing Manufacturer:computer,,SN-a342d299e5fbc7be04708d059e2e61e19cfa833fd47933d64eaa0a1aaf83a3e4
+3719: Missing device type:,Ford,SN-933156a5f9921117f25ebdc6493e0f55ac69171564c588ce5ec0649ed766d05a
+3721: Empty Entry:,,,
+3723: Duplicate Serial Number:computer,Apple,SN-f8b724a269e18e91dbc9ea1c170a9b7c2f956d3629ddc205b53e14b9dc064d13
+3732: Duplicate Serial Number:tablet,LG,SN-9db302f07c3a240bbb37615e0d88061b842e38a398e6e915aa77c8113ac014ee
+3733: Missing device type:,Sony,SN-89ec5caca69d29600f655f7ef6dc24ddd73f285920166622abe3b694faa256b1
+3737: Missing Manufacturer:television,,SN-b2c43e901a2246f20d1742918b040394a8ca759d3ce13d719c8f134ba5f8c968
+3741: Duplicate Serial Number:tablet,Samsung,SN-e50204d81691c8d5023e09b691f12b269ff46cdf6eb14382fa4c9672ed9ccb9d
+3748: Empty Entry:,,,
+3751: Duplicate Serial Number:tablet,Huawei,SN-be74f5c11bdaea3be6b63b6a4ebcaa43862b491a0e493ad28e3be6ccd76ced0a
+3765: Empty Entry:,,,
+3767: Empty Entry:,,,
+3773: Missing Manufacturer:smart watch,,SN-0f54b422d3a0c53b3af88bd2584676b7c3c88829ca10104b44fe58c7edcf688b
+3777: Empty Entry:,,,
+3778: Missing serial number:computer,Sony,
+3782: Missing serial number:mobile phone,Samsung,
+3786: Missing serial number:laptop,LG,
+3793: Offset Entry:,laptop,Samsung,SN-2a6b7bf03ed73656881f7dfc0555a36a44b459e56f48193e3c1c4ad25b4455be
+3795: Duplicate Serial Number:mobile phone,Google,SN-e3085726a8e3b0bfef29e110bf01049afc22693cda91670a97ddbc6b814e1fdc
+3797: Missing Manufacturer:television,,SN-c27dac283e3508b1c98044f04047dd6d0fade44f6723373858e362f74f5be6c0
+3809: Missing serial number:vehicle,Hyundai,
+3815: Additional comma:mobile phone,LG,SN-bbf8390214966005ef4996f97f35af45878c20c39d55e3f91ca6e0640a297c20,
+3822: Duplicate Serial Number:television,TCL,SN-a2bb7c06b193391a1df8a3a170132fa5d11cb55f6d4d4b70f0c96c92e7c97f85
+3823: Duplicate Serial Number:mobile phone,Huawei,SN-a2bb7c06b193391a1df8a3a170132fa5d11cb55f6d4d4b70f0c96c92e7c97f85
+3828: Empty Entry:,,,
+3829: Empty Entry:,,,
+3843: Missing device type:,Google,SN-7aea6c8d369c436ce6b16449faef1e15ae3883943f269e351e1c723531264b3a
+3847: Empty Entry:,,,
+3850: Offset Entry:,laptop,Apple,SN-8821960b7c8ef0a6c93e46d9bcc2ad0c6b31f0b85b16fd4968feef7f9485bbae
+3861: Missing device type:,Google,SN-bee35231c8facc71e81af86a09146b80cc87f6bdbaffe2fdc73c0d9678c2f1a5
+3866: Empty Entry:,,,
+3870: Missing serial number:mobile phone,Apple,
+3874: Missing Manufacturer:tablet,,SN-f25a7c25c39ab7abce25471eac8538df7d0214f81f31009adf6e79c1ef9ec109
+3879: Missing Manufacturer:vehicle,,SN-851476fe95403795d8e76d190d6657d2ec7947fe921b9aa55b96e8df5fc75bfb
+3882: Missing serial number:vehicle,Chevorlet,
+3890: Missing Manufacturer:vehicle,,SN-655873ec698ba9ef2e9c1791ed090e00c920a8bf4b5406ea589a5f3ca1245540
+3892: Missing Manufacturer:television,,SN-c5c8b17a3ff769c06853bf98990a048bbbcdec583dfdf4441ccd63b91105383c
+3895: Additional comma:tablet,Microsoft,SN-02e8a317a31f8afee7f9da04b26c107f6495db931178f4475bf70427a30fc8c3,
+3899: Empty Entry:,,,
+3904: Missing Manufacturer:tablet,,SN-865b54acc48a757d50c8afd1e2c28393ef9cf0c5bc6da3add51c66a9091a0fd3
+3917: Additional comma:laptop,Huawei,SN-5e1ba0f6e5dfea22c30b666337aae44cdd15693f1a9941437bbee9d3245c6552,
+3923: Empty Entry:,,,
+3924: Missing Manufacturer:mobile phone,,SN-c9d525d8a9d9b77681771a3346f716f080240c0241384f8541d9d03e05398827
+3932: Missing serial number:tablet,Huawei,
+3934: Missing serial number:mobile phone,Motorola,
+3936: Offset Entry:,laptop,Samsung,SN-0b8e1545a127b8d64c28db9ec24e4723761c0e5247b49c02f6652ecb81c4f5a1
+3938: Missing device type:,Google,SN-28dd4c97aa0b3b84bc7ec795096e09776f9524b885c26091531f222d51bd3b56
+3940: Missing serial number:vehicle,Toyota,
+3950: Missing serial number:tablet,Apple,
+3956: Missing device type:,OnePlus,SN-e7f697afbf9967437dd1f0100f78a4089bbf1296d4942e720014e2336346b6fc
+3957: Empty Entry:,,,
+3963: Offset Entry:,smart watch,Google,SN-17e705835160e187dc2481c848a9ef9f1e11825b012ba6ba05eb9d876dddd150
+3973: Duplicate Serial Number:laptop,Samsung,SN-00dc2bfe50718c2c27b9fe2f42a0470170e6e9e90b161275b16f1aca40b9c04c
+3978: Offset Entry:,television,Panasonic,SN-58163c4ac3e3b49332dfe445853c00437e376950e99b83e40061654d3d7ba2be
+3984: Missing serial number:smart watch,Apple,
+3986: Duplicate Serial Number:mobile phone,LG,SN-9b1ff7c9c80733c76c2fabeb40871f588b15424b0d730b5589409c16332c198f
+3991: Empty Entry:,,,
+3992: Missing device type:,Toyota,SN-66d950749571bad566683113500c160e90a0507845c6b038c150bfcd6f0a62d5
+4000: Missing device type:,Microsoft,SN-aa17340b92b10d1d1883e93381bce2973ad1351fef47dc0b30185f9fcbdd3295
+4001: Empty Entry:,,,
+4005: Duplicate Serial Number:laptop,LG,SN-a8d42b845c0fefa1cb0437b42bca7efe763a1d895340756c67ab2954161fc302
+4009: Missing device type:,Samsung,SN-60a1d4177186e6bfb40cc5d07b206f10374e8fa28f4f66a3a072a5752e77c94a
+4010: Duplicate Serial Number:television,LG,SN-14c2890fbc355f63b338fe9eb8a4fd72696a266fe5b8b9798ec90ef276015908
+4015: Missing device type:,OnePlus,SN-223cdeb52011054f31c411cc8d56136baf242a815be3f5b727bf0067faa939bc
+4016: Offset Entry:,television,Panasonic,SN-3358e60d270f56b8f577237bc31d0211b993758cdf2258b68f41adfd5f0fd330
+4033: Empty Entry:,,,
+4039: Missing Manufacturer:vehicle,,SN-c3d97b71f780fd370ccfe9eaa2c135ac75b0d9780bcd7307b3b24e1bcc8b47eb
+4043: Empty Entry:,,,
+4047: Offset Entry:,laptop,LG,SN-438cf83e3f2ae8770464b627b147614ddfbe5b1a78a270921505505fff7a9d7f
+4058: Missing Manufacturer:vehicle,,SN-2af4c0762bb41af2fa0e72c9c4f13a54908a7a2afa8dc6876be17caa4dad1931
+4059: Missing device type:,Apple,SN-1e022950030edd836532030c23a4b84c52b7c9efe010b098b0abf1685e2b5bb9
+4064: Duplicate Serial Number:vehicle,GM,SN-5d46be7a537fff7350e0b0543d5f2238c328796e5677e40bf3032ec271f92e4c
+4066: Offset Entry:,mobile phone,Motorola,SN-eb00381ff776552fd8d32b8ed89cde08f2f3379a134db9da9311b8378879c550
+4067: Empty Entry:,,,
+4072: Duplicate Serial Number:laptop,Apple,SN-5d46be7a537fff7350e0b0543d5f2238c328796e5677e40bf3032ec271f92e4c
+4073: Duplicate Serial Number:mobile phone,OnePlus,SN-5d46be7a537fff7350e0b0543d5f2238c328796e5677e40bf3032ec271f92e4c
+4077: Missing serial number:laptop,Google,
+4081: Empty Entry:,,,
+4088: Missing device type:,Sony,SN-8db13c333c04722c4956e43971e1865f3aca8e1e7519d29af4fd6cd18211f22f
+4090: Missing serial number:mobile phone,LG,
+4092: Missing device type:,Samsung,SN-b62e12521853f129e5d2506e250de15f02e1c9c9661adcd6c2bc8807cdcc6bfc
+4094: Missing device type:,Apple,SN-79be2e46d32815abd13a9f445b1d9688aa11652c1038b504e7ed172f52c3e203
+4096: Missing serial number:tablet,LG,
+4098: Missing Manufacturer:television,,SN-42f4798f284d8f067f2ca7ad071547250dde6b65aaf9277f38a592caacd1677a
+4099: Duplicate Serial Number:computer,Microsoft,SN-f8cb4de2864f58f5fc6f66d51064772976dc34def3a4579e5d05378320219226
+4101: Missing device type:,KIA,SN-b2659f6b5465e10d31aba1a64256d4998df4bdcc0ab51003799ede1a5ae4b456
+4110: Missing Manufacturer:laptop,,SN-c351c9b96fca168e2bb82760ce65e0dade570fea1e956d21edfd5f0dfa8c47c8
+4125: Missing serial number:mobile phone,LG,
+4127: Empty Entry:,,,
+4136: Duplicate Serial Number:smart watch,Samsung,SN-77e4f3306b23346cc5de57582b788f3c6be63bfefa49daaaa24c50827bf2c99b
+4142: Missing Manufacturer:tablet,,SN-7b40fe8b7b45d1143e8fc735ad29d4b69aed07f848aba3aaf690f5ada4d68120
+4150: Additional comma:television,Hisense,SN-c06c7602b9628ac61ddb006ee7b981fa65043a7df2814f6a80b27223727b00ba,
+4156: Duplicate Serial Number:laptop,Microsoft,SN-3f5de28f6afc13c8f97f8c04e6442ac7475bb3e71780f00d2084917320d3a8e0
+4157: Missing device type:,Hyundai,SN-bf003e779224f381264c71796fe006d15075119dbcfeaf839845355d50c99e91
+4162: Duplicate Serial Number:smart watch,Samsung,SN-83110fd616c98ae5eb66d2e5467122801db4b0a4c9c5df5962922062cc0de275
+4163: Missing Manufacturer:smart watch,,SN-059fde3b9ede3b098623aa45a2baaa98e3f8ae6ed831878bb5834385c37ffb36
+4165: Missing Manufacturer:smart watch,,SN-acbe712169e969ed40f94dcd155c8fea4ad5758f62e8a3c88e8e3d40b5761cfc
+4168: Empty Entry:,,,
+4169: Duplicate Serial Number:television,TCL,SN-83110fd616c98ae5eb66d2e5467122801db4b0a4c9c5df5962922062cc0de275
+4171: Empty Entry:,,,
+4177: Missing device type:,Samsung,SN-4e8ef2adaa8fd6b287a9ae9e1dfdf2f83b8fdf4153224e9d728ade325b5c6219
+4180: Duplicate Serial Number:smart watch,Google,SN-187136743f7e8e50ce520a2540762f9402c57a89220181ea0c68486b69000f63
+4183: Empty Entry:,,,
+4186: Missing device type:,Microsoft,SN-9ee88b100b3d53ae05a99e6b633361936cf8829c1ef36bb0d21b134944781818
+4187: Missing device type:,Samsung,SN-114172ed3b9029a3d3e9e17636ab187f10c79db61fccb5028e42ada037f3931c
+4201: Missing serial number:mobile phone,Huawei,
+4203: Empty Entry:,,,
+4209: Duplicate Serial Number:tablet,Apple,SN-320ee89c7d6ddaa044a02bf65006cf64d7934da36a26ded6d458e6afac672afc
+4214: Missing device type:,Microsoft,SN-bbaa07b9efa8793581f660ddaadbd4ca10428fdeeeed816d74ac883174f02f31
+4218: Offset Entry:,television,Sony,SN-5647941c3e2c0ebcf5aaa332820d4bcfe878143c0a45978dfba398618e47c70c
+4222: Missing serial number:smart watch,Apple,
+4223: Missing serial number:tablet,Google,
+4227: Missing Manufacturer:vehicle,,SN-502366fd4d90fdb92b66043ea0cd5235d174b8ead4731228020b802a91302a47
+4237: Missing serial number:smart watch,Apple,
+4245: Missing serial number:computer,IBM,
+4254: Missing serial number:smart watch,Google,
+4261: Missing device type:,Toyota,SN-312f6c872f80e7da6046e5a2167dfc439661edc28233225b105e4f58ab8d64f7
+4265: Empty Entry:,,,
+4273: Missing Manufacturer:mobile phone,,SN-b4eccdc9fb713dff9d64e2c0d125cb363c03c35fc47586eeff977e1e882a4280
+4277: Missing serial number:smart watch,Apple,
+4280: Empty Entry:,,,
+4284: Missing serial number:smart watch,Apple,
+4285: Missing Manufacturer:tablet,,SN-3204e2819d1b6e2aa52864bbd61d12b1044fb80d5776cefa2e719d3d301582ff
+4286: Missing device type:,Apple,SN-2f65d47e4dbddd904c72b7d5690cdb529339d3b9c8f1f233a4668d9abc5ca2e7
+4294: Missing device type:,Dell,SN-5470eb7f1f398550694517e71db039230a8e951e932923d2b79614bf9a9db6c8
+4300: Missing device type:,Toyota,SN-8b5a44fa5e9bc724f15f8f9dcb98a47e6a470fec645c8a06691ad4f423560694
+4304: Missing Manufacturer:mobile phone,,SN-b77779f90c415004461e474275ae76f38d81d8541ab4a66404dfa4a37e4b5747
+4305: Missing device type:,Samsung,SN-ec90d9e49d72f20a8a37e9bc5b3b4e15553c7dadd64051949c336a25289f145b
+4306: Offset Entry:,smart watch,Google,SN-81261cd04b1931110c0b6655f966c45f9ca14cd2d96e37a1dfca639c106b07d3
+4311: Missing device type:,Hyundai,SN-33221da698f1616ca5f5ce1523a3520831d06e80983f9a00186f7bf364941877
+4315: Missing device type:,GM,SN-8d5168e2ed8af785771a930439174e5ec53acdf7278406f8a2244a712449d8a2
+4320: Offset Entry:,smart watch,Apple,SN-5045b8f875f04d3d9218e9981c160265db3dfb3cdb4aeedf1adc4864b8c5e3da
+4323: Duplicate Serial Number:tablet,Huawei,SN-72047c41a29d6c9d9ddfda27f652c10c9f0e21c1a0621689921e4f7f83c9ac5c
+4328: Additional comma:vehicle,Chevorlet,SN-28d299e6ae815711605357de6804725ed3fea6ffa7e7083e260a6bb466cec695,
+4330: Missing Manufacturer:laptop,,SN-795d689cdcc7b18a5010b3df491dfa8faf45fd953c06601be06090c08c43477d
+4333: Missing device type:,Google,SN-fcd7f4dc5896124d0c846f242a16366641e86d73fd17f58ffc987bcc75aa69b9
+4336: Missing serial number:vehicle,GM,
+4341: Duplicate Serial Number:tablet,Huawei,SN-3dc2c329021561d5d4cbc818ab3809246ff3d2e8adb522e29625c6e6d646dc22
+4348: Missing Manufacturer:laptop,,SN-14b245e84e85fd98d2507db1dcdae35a368322e2507b57b4c2018185239a57c7
+4363: Empty Entry:,,,
+4368: Duplicate Serial Number:smart watch,Apple,SN-118a486877e646a488f6d5ff35d7bba5343444386fcc5abf0997b571d1056857
+4378: Offset Entry:,vehicle,Nissan,SN-ed345ccd7db48a8599e9cfb17cf7476efd945dbdf2a92fa05faa8d1975d6e6b4
+4385: Duplicate Serial Number:laptop,Microsoft,SN-df8070e137381951e8e943bc4cddebcb6c1cb5f579e7752e4b2da864b7cbd14f
+4386: Duplicate Serial Number:television,LG,SN-df8070e137381951e8e943bc4cddebcb6c1cb5f579e7752e4b2da864b7cbd14f
+4387: Missing Manufacturer:mobile phone,,SN-0d743a9e048a9844064bf94b7320bd7200993c4c765329c5fe76799568b53894
+4391: Duplicate Serial Number:smart watch,Google,SN-df8070e137381951e8e943bc4cddebcb6c1cb5f579e7752e4b2da864b7cbd14f
+4396: Offset Entry:,vehicle,Ford,SN-5be1ced5c27e0b9294583716b902bdf92b101ac4d2f201c222057d7c2c23ad9f
+4398: Missing serial number:television,Sony,
+4403: Duplicate Serial Number:television,Hisense,SN-5ebdb4122bbf8c8b951a381326b12f844b8f9c44e3fd1903d19b744cfc792e92
+4407: Missing device type:,Ford,SN-312b0ee8b840f55eb32721df9fd7691b25108666ee192d6bedda1d6109b490ba
+4408: Duplicate Serial Number:television,LG,SN-5ebdb4122bbf8c8b951a381326b12f844b8f9c44e3fd1903d19b744cfc792e92
+4416: Duplicate Serial Number:mobile phone,OnePlus,SN-1ec604f7c807122f9f00f81fefcb2ba375cdeb7880c02a661a065fc7d4f010d9
+4418: Duplicate Serial Number:smart watch,Google,SN-1ec604f7c807122f9f00f81fefcb2ba375cdeb7880c02a661a065fc7d4f010d9
+4437: Empty Entry:,,,
+4440: Missing device type:,Sony,SN-17f35aebc82017b7da908cf8305252a6152e13ac793af0f962f91f2e927b13d4
+4444: Missing serial number:computer,Google,
+4445: Missing serial number:tablet,LG,
+4454: Additional comma:computer,Dell,SN-136344734e5a419358cb300349bd17e85e3625305e91643958ea1a17812411dd,
+4464: Missing Manufacturer:computer,,SN-e1d31962774f64111e7d4d787cba37fca548962044c6640a2c58c41c89569864
+4470: Missing Manufacturer:laptop,,SN-761b0fd3c435e82c2cc675829f249ec7237de0029b1495bf3bd755343867e793
+4472: Duplicate Serial Number:smart watch,Google,SN-06d54b17203f3d999115df12a22a55a74b1b0c624ee92763f4469520aecbc521
+4480: Missing Manufacturer:tablet,,SN-d49598b4661555ead42a80a78cdc6220c62e3b717c5fab3781399d20ce762ed3
+4491: Duplicate Serial Number:tablet,LG,SN-a4b36cf8fec72bf2c1be39a3e23b9aa5d621bddc61a50a10345811be8ca39d51
+4496: Empty Entry:,,,
+4497: Empty Entry:,,,
+4499: Empty Entry:,,,
+4501: Additional comma:tablet,Microsoft,SN-e99e5afc1f1e056cfaee5dcb482e0a0a0d861ce8d5ca93951760b106ec3ac71f,
+4507: Missing serial number:television,Hisense,
+4513: Additional comma:television,Sony,SN-b4ea01056dc327d300adc47d8f24c5b680f82d43700d7b3ef1309d82420ce71a,
+4519: Missing serial number:television,Hisense,
+4522: Missing device type:,Samsung,SN-fb09605d7da12dd0d0a5dbb3af08858d11263af782e470a3c00e36d47a7095d4
+4525: Missing Manufacturer:television,,SN-e9f2c45ea59fae930474b8ba645b4a0509c2a425b82f0567d3c81b6491d5d335
+4528: Empty Entry:,,,
+4532: Empty Entry:,,,
+4536: Missing device type:,Samsung,SN-ba1c4e86121791a076ad88d4269485bcf798d1d22c144705b2332e3a89ccc9e4
+4549: Offset Entry:,laptop,Google,SN-dee6aebf306c3a6a6497b9c240773cbfae15621eb1934ed4b9dacc4892d979d3
+4551: Missing device type:,Google,SN-c5de11fe776c8b11b319d477989b1b4372e50aec1a0ae48fa9aeff4dfccccf76
+4553: Duplicate Serial Number:vehicle,Ford,SN-397e5e324d1a586aac39f64685464847adbc849a42232378a288ba744af5c1a1
+4561: Missing serial number:computer,Google,
+4565: Missing serial number:computer,Samsung,
+4566: Offset Entry:,tablet,Apple,SN-89c298db64481aba2d9cf2ea11c13252371ae06ffaf5f3e89594095d07d33be0
+4569: Empty Entry:,,,
+4591: Duplicate Serial Number:computer,HP,SN-75e57bcd25cc162e7e1251e8081bae9d942dd1c8237abd0cd9f18c49f3919510
+4592: Missing Manufacturer:smart watch,,SN-e550d33e3beb38532772c4fa32cf788655a8a208fd551600d069e5bb31b78cf8
+4597: Duplicate Serial Number:computer,Dell,SN-51a3ac4afb350f8d4053329d9403c33c2b549541a8ea297077b1091597cb436d
+4615: Offset Entry:,tablet,Apple,SN-b7baf31d39e80fe796e49f1227ba219ccf5e5e7c30b21e069582132ab52ecab1
+4620: Missing device type:,Panasonic,SN-187a76659e78f1047224b2cf479dcf9cedd0188dd0cb40027203e4c5dca69ec5
+4634: Additional comma:tablet,Samsung,SN-2d9db2fde15f2d418184b2d6d23ec88430a6f299ee6a8e944bbfaf9b753c7cb5,
+4642: Missing Manufacturer:tablet,,SN-6c55b2cfd5182e6914a1fd775b7d0ad104a0fffaaccc3944587195a653180ec3
+4661: Duplicate Serial Number:laptop,Apple,SN-1fc1ac1dd209db016086458bda45d3688030122f4a0f33c5753f6ec72015eed1
+4679: Additional comma:laptop,Huawei,SN-ab7289af2f7bc593dab432faedc51da7eef25bf4da4597556c65576e1500b41c,
+4697: Duplicate Serial Number:television,LG,SN-df6bcc5673e46eb9989a55a0f917391d21b0e400548c72b9ac3a9e8f98a62ceb
+4704: Missing Manufacturer:computer,,SN-abe71433e86ba3bb9e435cec74278c53ed5610a9d4503f76f43ccb649c9686a3
+4712: Missing serial number:television,Sony,
+4715: Empty Entry:,,,
+4718: Missing Manufacturer:mobile phone,,SN-73b242c1aa9d7aa2cb7636d7cc6addfb39a8884b53308aede13cfbded9615a18
+4721: Empty Entry:,,,
+4724: Additional comma:computer,Google,SN-11452f3111f01c37955469946b50239462e5adf40a16923068347b51e883bfba,
+4726: Missing Manufacturer:smart watch,,SN-87d796443b33e0e9a892a1c869c6f16aba61766c15679e02622064c0daedacd1
+4736: Missing Manufacturer:tablet,,SN-73806a870bdf706acc401af1bf14d7e29908c46d8c1c1fe4a53a2f8140c49d8e
+4748: Missing Manufacturer:vehicle,,SN-625989c99cab02d242610d104d55f340720d7aa152f172187a2b1e196bc32e53
+4749: Duplicate Serial Number:vehicle,Hyundai,SN-8799d4e0afd1644a2bb5580895d7bde13f45c60fe08697de47a1e950cd0ff274
+4752: Missing device type:,Huawei,SN-509284d8a2d401e1d091f16ad304b12b9e1dd797abe8993f5de379f4414aea5c
+4757: Empty Entry:,,,
+4760: Missing serial number:mobile phone,Nokia,
+4775: Missing Manufacturer:laptop,,SN-111d8c25a5f960ae306865633bf34f27fa2c5290db3aefd8bb126a3404668aea
+4778: Empty Entry:,,,
+4782: Duplicate Serial Number:television,Hisense,SN-8f652b46e8b1d1d3a40821f8c369f6e6b1725615418c9d2e28e7f282a89a04c1
+4784: Additional comma:vehicle,Nissan,SN-8034635bbb0a5bb8381e7abdb3aaf45788d247e9dafcd2231dd30c3904a7d1e6,
+4785: Missing serial number:vehicle,Ford,
+4792: Missing device type:,Apple,SN-b95fa11d8f00ded7c75af3e83b46055653dbd1e9834180854527d54c3cbba2ab
+4801: Missing device type:,Sony,SN-b39f06342eaa0aaa95dad9ff6f0c6e6a44453618e269c2bae8744598a87f5171
+4815: Missing serial number:computer,Microsoft,
+4831: Duplicate Serial Number:smart watch,Apple,SN-ac68f3c24023b9b56a2d3402b359a09c092f54e01e1cac8140922ad92043fa72
+4832: Empty Entry:,,,
+4841: Duplicate Serial Number:vehicle,Toyota,SN-e62d4272e94c9017145d08a46877e4f1136ef281c303186cb4e6e6d7161385cd
+4855: Offset Entry:,tablet,Huawei,SN-506da81944aeb6401eabb79295325fea2f5b8a1d588cf3b7e3e2197a6be8b5a7
+4856: Missing Manufacturer:mobile phone,,SN-7ad6f32bc0b3a8e7576b20c19eb497392f663167967654c448d888f07e529fbd
+4862: Missing serial number:computer,Apple,
+4869: Empty Entry:,,,
+4871: Missing Manufacturer:tablet,,SN-d59ab3dc6b2cc5d80496c47a67707fc0b55efa4fff3f43b5523bc0b152cbae32

@@ -1,0 +1,49 @@
+Device type statistics:
+television: 714582
+mobile phone: 714208
+smart watch: 714084
+laptop: 715608
+computer: 713698
+tablet: 713318
+vehicle: 713597
+Manufacturer statistics:
+LG: 419154
+Huawei: 318641
+Google: 645487
+Microsoft: 406585
+Samsung: 747278
+KIA: 102287
+Toyota: 102040
+Hyundai: 101918
+Apple: 643602
+HP: 89154
+Nissan: 101689
+Ford: 101870
+Chevorlet: 102082
+Dell: 89172
+Motorola: 79424
+Sony: 191374
+Nokia: 79466
+OnePlus: 79030
+Panasonic: 102032
+Vizio: 102045
+Hisense: 102575
+GM: 101711
+TCL: 101483
+IBM: 88996
+
+Total errors: 978
+Duplicate errors: 159
+Missing device type errors: 146
+Missing serial number errors: 145
+Missing Manufacturer errors: 139
+Empty Entry errors: 144
+Offset Entry errors: 95
+Additional comma errors: 76
+Manufacturer typos: 74
+Device type typos: 62
+
+Program execution time: 2.186279360453288 minutes or 131.17676162719727 seconds
+Insert Rate: 38109.60827198468 rows per second
+
+Clean data: 4999095

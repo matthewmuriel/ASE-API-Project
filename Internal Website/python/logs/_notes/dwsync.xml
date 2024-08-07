@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="duplicate_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="error_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="missing_manufacturer_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="additional_comma_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="offset_entry_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="empty_entry_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="missing_serial_number_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="missing_device_type_log.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556317510000000" remote="133556317510000000" Dst="2" />
+<file name="runtime.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556125630000000" remote="133556125630000000" Dst="2" />
+<file name="file_statistics.txt" server="ec2-3-141-169-14.us-east-2.compute.amazonaws.com//var/www/html/" local="133556318820000000" remote="133556318820000000" Dst="2" />
+</dwsync>

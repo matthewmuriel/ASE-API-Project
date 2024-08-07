@@ -1,0 +1,11 @@
+Thread execution time: 6.4709993918736775 minutes or 388.25996351242065 seconds
+Thread Insert Rate: 12875.638669450595 rows per second
+
+Total Insert Count: 4999095
+Duplicate errors: 159
+Missing device type errors: 146
+Missing serial number errors: 145
+Missing Manufacturer errors: 139
+Empty Entry errors: 144
+Offset Entry errors: 95
+Additional comma errors: 76
